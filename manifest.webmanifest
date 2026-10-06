@@ -1,0 +1,9 @@
+{
+  "name":"ZP10 Mathe NRW – EESA Trainer",
+  "short_name":"ZP10 EESA",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#0e1420",
+  "theme_color":"#18212f",
+  "description":"Interaktive Vorbereitung auf die ZP10 Mathematik NRW – EESA"
+}

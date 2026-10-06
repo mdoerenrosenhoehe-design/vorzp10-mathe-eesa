@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#18212f">
+  <meta name="description" content="Interaktive Vorbereitung auf die ZP10 Mathematik NRW – EESA">
+  <title>ZP10 Mathe NRW – EESA Trainer</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip" href="#app">Zum Inhalt springen</a>
+  <header class="topbar">
+    <button id="homeBtn" class="brand" aria-label="Startseite"><span class="brandmark">∑</span><span>ZP10 Mathe <b>EESA</b></span></button>
+    <nav class="topnav" aria-label="Hauptnavigation">
+      <button data-route="home">Themen</button>
+      <button data-route="cards">Meine Karteikarten</button>
+      <button data-route="progress">Lernfortschritt</button>
+      <button data-route="exam">Prüfung</button>
+    </nav>
+    <button id="helpBtn" class="helpbtn">KI-Lernhilfe ↗</button>
+  </header>
+  <main id="app" tabindex="-1" aria-live="polite"></main>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <canvas id="confetti" class="confetti" aria-hidden="true"></canvas>
+  <footer>
+    <span>NRW · ZP10 Mathematik · EESA</span>
+    <button id="sourcesBtn">Grundlagen & Quellen</button>
+    <button id="resetBtn">Lernstand zurücksetzen</button>
+  </footer>
+  <script src="js/config.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
