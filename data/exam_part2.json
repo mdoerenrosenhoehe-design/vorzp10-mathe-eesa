@@ -1,0 +1,3382 @@
+[
+  {
+    "id": "P2-01",
+    "title": "Teil 2 – Variante 1",
+    "context": "Schulcafé",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Schulcafé",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-096",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Guthaben von 200 € wird ein Jahr lang mit 1 % verzinst. Wie viele Euro Zinsen entstehen?",
+            "answer": "2,00",
+            "solution": "Z = K·p/100 = 200·1/100 = 2,00 €.",
+            "hint1": "Nutze die Zinsformel wie bei Prozentrechnung.",
+            "hint2": "Kapital · Zinssatz / 100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v1-1-1"
+          },
+          {
+            "id": "prozent-023",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "50 sind wie viel Prozent von 200?",
+            "answer": "25",
+            "solution": "p = W/G·100 = 50/200·100 = 25%.",
+            "hint1": "Teile den Anteil durch das Ganze.",
+            "hint2": "Danach ·100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.01,
+            "examId": "p2v1-1-2"
+          },
+          {
+            "id": "prozent-067",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "Ein Sneaker kostet 80 €. Im Angebot gibt es 20 % Rabatt. Wie hoch ist der neue Preis?",
+            "answer": "64,00",
+            "solution": "Rabatt: 80·20/100=16,00 €. Neuer Preis: 80−16,00=64,00 €.",
+            "hint1": "Berechne den Rabattbetrag.",
+            "hint2": "Ziehe den Rabatt vom ursprünglichen Preis ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v1-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "zahlen",
+        "items": [
+          {
+            "id": "zahlen-054",
+            "theme": "zahlen",
+            "difficulty": "mittel",
+            "prompt": "Berechne unter Beachtung von Punkt-vor-Strich: 5 · 2 + 10.",
+            "answer": "20",
+            "solution": "Zuerst 5·2=10, dann +10=20.",
+            "hint1": "Multipliziere zuerst.",
+            "hint2": "Punktrechnung vor Strichrechnung.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v1-2-1"
+          },
+          {
+            "id": "zahlen-056",
+            "theme": "zahlen",
+            "difficulty": "mittel",
+            "prompt": "Berechne unter Beachtung von Punkt-vor-Strich: 9 · 4 + 10.",
+            "answer": "46",
+            "solution": "Zuerst 9·4=36, dann +10=46.",
+            "hint1": "Multipliziere zuerst.",
+            "hint2": "Punktrechnung vor Strichrechnung.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v1-2-2"
+          },
+          {
+            "id": "zahlen-092",
+            "theme": "zahlen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Im Kino kosten Snacks 16,79 € pro Person. 4 Personen kaufen jeweils einen. Sie zahlen zusammen 70 €. Wie viel Rückgeld erhalten sie?",
+            "answer": "2,84",
+            "solution": "Gesamtpreis: 4·16,79 €=67,16 €. Rückgeld: 70−67,16=2,84 €.",
+            "hint1": "Berechne zuerst den Gesamtpreis.",
+            "hint2": "Ziehe den Gesamtpreis vom gezahlten Betrag ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v1-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "daten",
+        "items": [
+          {
+            "id": "daten-089",
+            "theme": "daten",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Foto wird in 16 gleich große Felder geteilt. In einem typischen Feld werden etwa 21 Objekte gezählt. Schätze die Gesamtzahl.",
+            "answer": "336",
+            "solution": "Rastermethode: 16 Felder · ca. 21 Objekte/Feld = ca. 336 Objekte.",
+            "hint1": "Nutze die Rastermethode.",
+            "hint2": "Typische Anzahl pro Feld mal Zahl der Felder.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v1-3-1"
+          },
+          {
+            "id": "daten-088",
+            "theme": "daten",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Foto wird in 12 gleich große Felder geteilt. In einem typischen Feld werden etwa 9 Objekte gezählt. Schätze die Gesamtzahl.",
+            "answer": "108",
+            "solution": "Rastermethode: 12 Felder · ca. 9 Objekte/Feld = ca. 108 Objekte.",
+            "hint1": "Nutze die Rastermethode.",
+            "hint2": "Typische Anzahl pro Feld mal Zahl der Felder.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v1-3-2"
+          },
+          {
+            "id": "daten-053",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "In einer Box liegen 50 Lose, davon 23 Gewinne. Wie groß ist die Gewinnwahrscheinlichkeit in Prozent?",
+            "answer": "46,0",
+            "solution": "P=23/50=0,460=46,0%.",
+            "hint1": "Günstige Ergebnisse durch alle Ergebnisse.",
+            "hint2": "Dann in Prozent umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v1-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-02",
+    "title": "Teil 2 – Variante 2",
+    "context": "Sporttag",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Sporttag",
+        "theme": "daten",
+        "items": [
+          {
+            "id": "daten-097",
+            "theme": "daten",
+            "difficulty": "anspruchsvoll",
+            "prompt": "In einem Beutel sind 2 rote, 3 blaue und 1 grüne Kugeln. Wie groß ist die Wahrscheinlichkeit, rot oder blau zu ziehen, in Prozent?",
+            "answer": "83,3",
+            "solution": "Günstig=2+3=5; Gesamt=6. P=5/6≈83,3%.",
+            "hint1": "Addiere zuerst alle günstigen Kugeln.",
+            "hint2": "P=günstig/gesamt.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v2-1-1"
+          },
+          {
+            "id": "daten-051",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "In einer Box liegen 30 Lose, davon 11 Gewinne. Wie groß ist die Gewinnwahrscheinlichkeit in Prozent?",
+            "answer": "36,7",
+            "solution": "P=11/30=0,367=36,7%.",
+            "hint1": "Günstige Ergebnisse durch alle Ergebnisse.",
+            "hint2": "Dann in Prozent umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v2-1-2"
+          },
+          {
+            "id": "daten-083",
+            "theme": "daten",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Foto wird in 10 gleich große Felder geteilt. In einem typischen Feld werden etwa 17 Objekte gezählt. Schätze die Gesamtzahl.",
+            "answer": "170",
+            "solution": "Rastermethode: 10 Felder · ca. 17 Objekte/Feld = ca. 170 Objekte.",
+            "hint1": "Nutze die Rastermethode.",
+            "hint2": "Typische Anzahl pro Feld mal Zahl der Felder.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v2-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "groessen",
+        "items": [
+          {
+            "id": "groessen-071",
+            "theme": "groessen",
+            "difficulty": "mittel",
+            "prompt": "Eine Busfahrt dauert 3 h 45 min. Wie viele Minuten sind das?",
+            "answer": "225",
+            "solution": "3 h = 180 min. Dazu 45 min: 225 min.",
+            "hint1": "Wandle Stunden in Minuten um.",
+            "hint2": "1 h = 60 min.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "min",
+            "tolerance": 1e-06,
+            "examId": "p2v2-2-1"
+          },
+          {
+            "id": "groessen-100",
+            "theme": "groessen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Training beginnt um 11:40 Uhr und dauert 166 Minuten. Wann endet es?",
+            "answer": "14:26",
+            "solution": "Startzeit in Minuten: 700. +166=866. Das entspricht 14:26 Uhr.",
+            "hint1": "Rechne die Dauer zur Startzeit hinzu.",
+            "hint2": "Du kannst zunächst alles in Minuten umwandeln.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v2-2-2"
+          },
+          {
+            "id": "groessen-092",
+            "theme": "groessen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Training beginnt um 07:00 Uhr und dauert 98 Minuten. Wann endet es?",
+            "answer": "08:38",
+            "solution": "Startzeit in Minuten: 420. +98=518. Das entspricht 08:38 Uhr.",
+            "hint1": "Rechne die Dauer zur Startzeit hinzu.",
+            "hint2": "Du kannst zunächst alles in Minuten umwandeln.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v2-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-093",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Guthaben von 1000 € wird ein Jahr lang mit 1 % verzinst. Wie viele Euro Zinsen entstehen?",
+            "answer": "10,00",
+            "solution": "Z = K·p/100 = 1000·1/100 = 10,00 €.",
+            "hint1": "Nutze die Zinsformel wie bei Prozentrechnung.",
+            "hint2": "Kapital · Zinssatz / 100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v2-3-1"
+          },
+          {
+            "id": "prozent-035",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "24 sind wie viel Prozent von 240?",
+            "answer": "10",
+            "solution": "p = W/G·100 = 24/240·100 = 10%.",
+            "hint1": "Teile den Anteil durch das Ganze.",
+            "hint2": "Danach ·100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.01,
+            "examId": "p2v2-3-2"
+          },
+          {
+            "id": "prozent-053",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "Ein Kopfhörer kostet 40 €. Im Angebot gibt es 30 % Rabatt. Wie hoch ist der neue Preis?",
+            "answer": "28,00",
+            "solution": "Rabatt: 40·30/100=12,00 €. Neuer Preis: 40−12,00=28,00 €.",
+            "hint1": "Berechne den Rabattbetrag.",
+            "hint2": "Ziehe den Rabatt vom ursprünglichen Preis ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v2-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-03",
+    "title": "Teil 2 – Variante 3",
+    "context": "Fahrradtour",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Fahrradtour",
+        "theme": "groessen",
+        "items": [
+          {
+            "id": "groessen-058",
+            "theme": "groessen",
+            "difficulty": "mittel",
+            "prompt": "Rechne um: 2100 dm² = ? m²",
+            "answer": "21",
+            "solution": "Von dm² zu m² wird durch 100 geteilt: 2100:100=21.",
+            "hint1": "Die Ziel-Einheit ist größer.",
+            "hint2": "Teile durch den Umrechnungsfaktor.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "m²",
+            "tolerance": 1e-06,
+            "examId": "p2v3-1-1"
+          },
+          {
+            "id": "groessen-096",
+            "theme": "groessen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Training beginnt um 10:50 Uhr und dauert 160 Minuten. Wann endet es?",
+            "answer": "13:30",
+            "solution": "Startzeit in Minuten: 650. +160=810. Das entspricht 13:30 Uhr.",
+            "hint1": "Rechne die Dauer zur Startzeit hinzu.",
+            "hint2": "Du kannst zunächst alles in Minuten umwandeln.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v3-1-2"
+          },
+          {
+            "id": "groessen-086",
+            "theme": "groessen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Auf einem Plan im Maßstab 1:100 ist eine Strecke 5,6 cm lang. Wie lang ist sie in Wirklichkeit in Metern?",
+            "answer": "5,6",
+            "solution": "5,6·100=560 cm = 5,6 m.",
+            "hint1": "Multipliziere die Planlänge mit der Maßstabszahl.",
+            "hint2": "Wandle danach Zentimeter in Meter um.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "m",
+            "tolerance": 0.01,
+            "examId": "p2v3-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "funktionen",
+        "items": [
+          {
+            "id": "funktionen-049",
+            "theme": "funktionen",
+            "difficulty": "mittel",
+            "prompt": "Eine Gerade geht durch A(5|7) und B(9|11). Bestimme die Steigung m.",
+            "answer": "1",
+            "solution": "m=(y₂−y₁)/(x₂−x₁)=(11−7)/(9−5)=1.",
+            "hint1": "Änderung in y durch Änderung in x.",
+            "hint2": "m = Δy / Δx.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 0.001,
+            "examId": "p2v3-2-1"
+          },
+          {
+            "id": "funktionen-057",
+            "theme": "funktionen",
+            "difficulty": "mittel",
+            "prompt": "Ein Leihdienst berechnet 3,00 € Startgebühr und 0,25 € pro Minute. Wie viel kosten 15 Minuten?",
+            "answer": "6,75",
+            "solution": "Kosten y=0,25·15+3,00=6,75 €.",
+            "hint1": "Lineares Modell: variable Kosten + Startgebühr.",
+            "hint2": "Minutenpreis·Minuten + Startgebühr.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v3-2-2"
+          },
+          {
+            "id": "funktionen-060",
+            "theme": "funktionen",
+            "difficulty": "mittel",
+            "prompt": "Ein Leihdienst berechnet 2,00 € Startgebühr und 0,25 € pro Minute. Wie viel kosten 20 Minuten?",
+            "answer": "7,00",
+            "solution": "Kosten y=0,25·20+2,00=7,00 €.",
+            "hint1": "Lineares Modell: variable Kosten + Startgebühr.",
+            "hint2": "Minutenpreis·Minuten + Startgebühr.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v3-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "geometrie",
+        "items": [
+          {
+            "id": "geometrie-073",
+            "theme": "geometrie",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Auf einer Zeichnung im Maßstab 1:200 ist eine Strecke 6 cm lang. Berechne die reale Länge in Metern.",
+            "answer": "12",
+            "solution": "6·200=1200 cm=12 m.",
+            "hint1": "Maßstab bedeutet: Zeichnung·Maßstabszahl.",
+            "hint2": "Danach cm in m umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "m",
+            "tolerance": 0.01,
+            "examId": "p2v3-3-1"
+          },
+          {
+            "id": "geometrie-056",
+            "theme": "geometrie",
+            "difficulty": "mittel",
+            "prompt": "Ein Kreis hat Radius 9 cm. Berechne seinen Flächeninhalt. Runde auf zwei Nachkommastellen.",
+            "answer": "254,47",
+            "solution": "A=π·r²=π·9²≈254,47 cm².",
+            "hint1": "A=π·r².",
+            "hint2": "Setze den Radius ein.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm²",
+            "tolerance": 0.03,
+            "examId": "p2v3-3-2"
+          },
+          {
+            "id": "geometrie-081",
+            "theme": "geometrie",
+            "difficulty": "mittel",
+            "prompt": "Ein Dreieck hat Grundseite 5 cm und Höhe 3 cm. Berechne den Flächeninhalt.",
+            "answer": "7,5",
+            "solution": "A=g·h/2=5·3/2=7,5 cm².",
+            "hint1": "Dreiecksfläche ist die Hälfte von Grundseite mal Höhe.",
+            "hint2": "A=g·h/2.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm²",
+            "tolerance": 1e-06,
+            "examId": "p2v3-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-04",
+    "title": "Teil 2 – Variante 4",
+    "context": "Wohnung renovieren",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Wohnung renovieren",
+        "theme": "geometrie",
+        "items": [
+          {
+            "id": "geometrie-064",
+            "theme": "geometrie",
+            "difficulty": "mittel",
+            "prompt": "Ein Kreis hat Radius 3 cm. Berechne seinen Umfang. Runde auf zwei Nachkommastellen.",
+            "answer": "18,85",
+            "solution": "u=2·π·r=2·π·3≈18,85 cm.",
+            "hint1": "u=2πr.",
+            "hint2": "Setze den Radius ein.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm",
+            "tolerance": 0.03,
+            "examId": "p2v4-1-1"
+          },
+          {
+            "id": "geometrie-031",
+            "theme": "geometrie",
+            "difficulty": "mittel",
+            "prompt": "Ein rechtwinkliges Dreieck hat Katheten 3 cm und 4 cm. Berechne die Hypotenuse.",
+            "answer": "5",
+            "solution": "c=√(3²+4²)=√(25)=5 cm.",
+            "hint1": "Nutze a²+b²=c².",
+            "hint2": "Quadriere die Katheten, addiere und ziehe die Wurzel.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm",
+            "tolerance": 1e-06,
+            "examId": "p2v4-1-2"
+          },
+          {
+            "id": "geometrie-081",
+            "theme": "geometrie",
+            "difficulty": "mittel",
+            "prompt": "Ein Dreieck hat Grundseite 5 cm und Höhe 3 cm. Berechne den Flächeninhalt.",
+            "answer": "7,5",
+            "solution": "A=g·h/2=5·3/2=7,5 cm².",
+            "hint1": "Dreiecksfläche ist die Hälfte von Grundseite mal Höhe.",
+            "hint2": "A=g·h/2.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm²",
+            "tolerance": 1e-06,
+            "examId": "p2v4-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-098",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Guthaben von 2000 € wird ein Jahr lang mit 2,5 % verzinst. Wie viele Euro Zinsen entstehen?",
+            "answer": "50,00",
+            "solution": "Z = K·p/100 = 2000·2,5/100 = 50,00 €.",
+            "hint1": "Nutze die Zinsformel wie bei Prozentrechnung.",
+            "hint2": "Kapital · Zinssatz / 100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v4-2-1"
+          },
+          {
+            "id": "prozent-047",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "12 entsprechen 50 %. Bestimme den Grundwert.",
+            "answer": "24",
+            "solution": "G = W : (50/100) = 24.",
+            "hint1": "100 % sind mehr als der gegebene Anteil.",
+            "hint2": "Teile den Prozentwert durch den Dezimalwert des Prozentsatzes.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 0.01,
+            "examId": "p2v4-2-2"
+          },
+          {
+            "id": "prozent-068",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "Ein Rucksack kostet 40 €. Im Angebot gibt es 25 % Rabatt. Wie hoch ist der neue Preis?",
+            "answer": "30,00",
+            "solution": "Rabatt: 40·25/100=10,00 €. Neuer Preis: 40−10,00=30,00 €.",
+            "hint1": "Berechne den Rabattbetrag.",
+            "hint2": "Ziehe den Rabatt vom ursprünglichen Preis ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v4-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "groessen",
+        "items": [
+          {
+            "id": "groessen-057",
+            "theme": "groessen",
+            "difficulty": "mittel",
+            "prompt": "Rechne um: 17000 cm³ = ? dm³",
+            "answer": "17",
+            "solution": "Von cm³ zu dm³ wird durch 1000 geteilt: 17000:1000=17.",
+            "hint1": "Die Ziel-Einheit ist größer.",
+            "hint2": "Teile durch den Umrechnungsfaktor.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "dm³",
+            "tolerance": 1e-06,
+            "examId": "p2v4-3-1"
+          },
+          {
+            "id": "groessen-093",
+            "theme": "groessen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Training beginnt um 16:10 Uhr und dauert 127 Minuten. Wann endet es?",
+            "answer": "18:17",
+            "solution": "Startzeit in Minuten: 970. +127=1097. Das entspricht 18:17 Uhr.",
+            "hint1": "Rechne die Dauer zur Startzeit hinzu.",
+            "hint2": "Du kannst zunächst alles in Minuten umwandeln.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v4-3-2"
+          },
+          {
+            "id": "groessen-090",
+            "theme": "groessen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Auf einem Plan im Maßstab 1:50 ist eine Strecke 4,2 cm lang. Wie lang ist sie in Wirklichkeit in Metern?",
+            "answer": "2,1",
+            "solution": "4,2·50=210 cm = 2,1 m.",
+            "hint1": "Multipliziere die Planlänge mit der Maßstabszahl.",
+            "hint2": "Wandle danach Zentimeter in Meter um.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "m",
+            "tolerance": 0.01,
+            "examId": "p2v4-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-05",
+    "title": "Teil 2 – Variante 5",
+    "context": "Streaming & Datenvolumen",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Streaming & Datenvolumen",
+        "theme": "funktionen",
+        "items": [
+          {
+            "id": "funktionen-078",
+            "theme": "funktionen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Eine Größe startet bei 200 und wächst jedes Jahr um 10 %. Wie groß ist sie nach 3 Jahren?",
+            "answer": "266,20",
+            "solution": "Wachstumsfaktor q=1+10/100=1,10. Nach 3 Jahren: 200·1,10^3=266,20.",
+            "hint1": "Bestimme zuerst den Wachstumsfaktor.",
+            "hint2": "q = 1 + p/100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 0.02,
+            "examId": "p2v5-1-1"
+          },
+          {
+            "id": "funktionen-022",
+            "theme": "funktionen",
+            "difficulty": "mittel",
+            "prompt": "Gegeben ist y = 1x + 0. Bestimme y für x=7.",
+            "answer": "7",
+            "solution": "y=1·(7) + 0=7.",
+            "hint1": "Setze x in die Funktionsgleichung ein.",
+            "hint2": "Zuerst multiplizieren, dann den y-Achsenabschnitt berücksichtigen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v5-1-2"
+          },
+          {
+            "id": "funktionen-030",
+            "theme": "funktionen",
+            "difficulty": "mittel",
+            "prompt": "Gegeben ist y = 0,5x − 3. Bestimme y für x=-3.",
+            "answer": "-4,5",
+            "solution": "y=0,5·(-3) − 3=-4,5.",
+            "hint1": "Setze x in die Funktionsgleichung ein.",
+            "hint2": "Zuerst multiplizieren, dann den y-Achsenabschnitt berücksichtigen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v5-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-083",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Haushalt verbraucht in einem Monat 200 kWh Strom. Rechne mit 40,55 ct pro kWh. Wie hoch sind die reinen Verbrauchskosten?",
+            "answer": "81,10",
+            "solution": "40,55 ct = 0,4055 €. 200·0,4055 €=81,10 €.",
+            "hint1": "Wandle Cent in Euro um.",
+            "hint2": "40,55 ct = 0,4055 €.",
+            "choices": [],
+            "type": "input",
+            "source": "Destatis, durchschnittlicher Haushaltsstrompreis 2. Halbjahr 2025: 40,55 ct/kWh",
+            "unit": "€",
+            "tolerance": 0.02,
+            "examId": "p2v5-2-1"
+          },
+          {
+            "id": "prozent-047",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "12 entsprechen 50 %. Bestimme den Grundwert.",
+            "answer": "24",
+            "solution": "G = W : (50/100) = 24.",
+            "hint1": "100 % sind mehr als der gegebene Anteil.",
+            "hint2": "Teile den Prozentwert durch den Dezimalwert des Prozentsatzes.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 0.01,
+            "examId": "p2v5-2-2"
+          },
+          {
+            "id": "prozent-080",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Das Deutschland-Ticket kostet 2026 monatlich 63 €. Wie viel kosten 6 Monate insgesamt?",
+            "answer": "378",
+            "solution": "6·63 € = 378 €.",
+            "hint1": "Multipliziere Monatszahl und Monatspreis.",
+            "hint2": "63 € pro Monat.",
+            "choices": [],
+            "type": "input",
+            "source": "Deutsche Bahn, Deutschland-Ticket 2026: 63 € pro Monat",
+            "unit": "€",
+            "tolerance": 1e-06,
+            "examId": "p2v5-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "daten",
+        "items": [
+          {
+            "id": "daten-092",
+            "theme": "daten",
+            "difficulty": "anspruchsvoll",
+            "prompt": "In einem Beutel sind 4 rote, 5 blaue und 3 grüne Kugeln. Wie groß ist die Wahrscheinlichkeit, rot oder blau zu ziehen, in Prozent?",
+            "answer": "75,0",
+            "solution": "Günstig=4+5=9; Gesamt=12. P=9/12≈75,0%.",
+            "hint1": "Addiere zuerst alle günstigen Kugeln.",
+            "hint2": "P=günstig/gesamt.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v5-3-1"
+          },
+          {
+            "id": "daten-078",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "Eine Umfrage ergibt 35, 16 und 25 Stimmen für drei Optionen. Wie viel Prozent entfallen auf Option 1?",
+            "answer": "46,1",
+            "solution": "Gesamt=76. Anteil Option 1: 35/76·100≈46,1%.",
+            "hint1": "Berechne zuerst die Gesamtzahl.",
+            "hint2": "Stimmen Option 1 / alle Stimmen · 100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v5-3-2"
+          },
+          {
+            "id": "daten-057",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "In einer Box liegen 100 Lose, davon 20 Gewinne. Wie groß ist die Gewinnwahrscheinlichkeit in Prozent?",
+            "answer": "20,0",
+            "solution": "P=20/100=0,200=20,0%.",
+            "hint1": "Günstige Ergebnisse durch alle Ergebnisse.",
+            "hint2": "Dann in Prozent umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v5-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-06",
+    "title": "Teil 2 – Variante 6",
+    "context": "Schulfest",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Schulfest",
+        "theme": "daten",
+        "items": [
+          {
+            "id": "daten-086",
+            "theme": "daten",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Foto wird in 16 gleich große Felder geteilt. In einem typischen Feld werden etwa 9 Objekte gezählt. Schätze die Gesamtzahl.",
+            "answer": "144",
+            "solution": "Rastermethode: 16 Felder · ca. 9 Objekte/Feld = ca. 144 Objekte.",
+            "hint1": "Nutze die Rastermethode.",
+            "hint2": "Typische Anzahl pro Feld mal Zahl der Felder.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v6-1-1"
+          },
+          {
+            "id": "daten-076",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "Eine Umfrage ergibt 16, 25 und 21 Stimmen für drei Optionen. Wie viel Prozent entfallen auf Option 1?",
+            "answer": "25,8",
+            "solution": "Gesamt=62. Anteil Option 1: 16/62·100≈25,8%.",
+            "hint1": "Berechne zuerst die Gesamtzahl.",
+            "hint2": "Stimmen Option 1 / alle Stimmen · 100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v6-1-2"
+          },
+          {
+            "id": "daten-055",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "In einer Box liegen 40 Lose, davon 14 Gewinne. Wie groß ist die Gewinnwahrscheinlichkeit in Prozent?",
+            "answer": "35,0",
+            "solution": "P=14/40=0,350=35,0%.",
+            "hint1": "Günstige Ergebnisse durch alle Ergebnisse.",
+            "hint2": "Dann in Prozent umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v6-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-027",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "40 sind wie viel Prozent von 100?",
+            "answer": "40",
+            "solution": "p = W/G·100 = 40/100·100 = 40%.",
+            "hint1": "Teile den Anteil durch das Ganze.",
+            "hint2": "Danach ·100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.01,
+            "examId": "p2v6-2-1"
+          },
+          {
+            "id": "prozent-062",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "Ein Sportshirt kostet 32 €. Im Angebot gibt es 25 % Rabatt. Wie hoch ist der neue Preis?",
+            "answer": "24,00",
+            "solution": "Rabatt: 32·25/100=8,00 €. Neuer Preis: 32−8,00=24,00 €.",
+            "hint1": "Berechne den Rabattbetrag.",
+            "hint2": "Ziehe den Rabatt vom ursprünglichen Preis ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v6-2-2"
+          },
+          {
+            "id": "prozent-092",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Guthaben von 2000 € wird ein Jahr lang mit 2,5 % verzinst. Wie viele Euro Zinsen entstehen?",
+            "answer": "50,00",
+            "solution": "Z = K·p/100 = 2000·2,5/100 = 50,00 €.",
+            "hint1": "Nutze die Zinsformel wie bei Prozentrechnung.",
+            "hint2": "Kapital · Zinssatz / 100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v6-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "geometrie",
+        "items": [
+          {
+            "id": "geometrie-072",
+            "theme": "geometrie",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Auf einer Zeichnung im Maßstab 1:50 ist eine Strecke 7,5 cm lang. Berechne die reale Länge in Metern.",
+            "answer": "3,75",
+            "solution": "7,5·50=375 cm=3,75 m.",
+            "hint1": "Maßstab bedeutet: Zeichnung·Maßstabszahl.",
+            "hint2": "Danach cm in m umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "m",
+            "tolerance": 0.01,
+            "examId": "p2v6-3-1"
+          },
+          {
+            "id": "geometrie-035",
+            "theme": "geometrie",
+            "difficulty": "mittel",
+            "prompt": "Ein rechtwinkliges Dreieck hat Katheten 7 cm und 24 cm. Berechne die Hypotenuse.",
+            "answer": "25",
+            "solution": "c=√(7²+24²)=√(625)=25 cm.",
+            "hint1": "Nutze a²+b²=c².",
+            "hint2": "Quadriere die Katheten, addiere und ziehe die Wurzel.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm",
+            "tolerance": 1e-06,
+            "examId": "p2v6-3-2"
+          },
+          {
+            "id": "geometrie-072",
+            "theme": "geometrie",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Auf einer Zeichnung im Maßstab 1:50 ist eine Strecke 7,5 cm lang. Berechne die reale Länge in Metern.",
+            "answer": "3,75",
+            "solution": "7,5·50=375 cm=3,75 m.",
+            "hint1": "Maßstab bedeutet: Zeichnung·Maßstabszahl.",
+            "hint2": "Danach cm in m umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "m",
+            "tolerance": 0.01,
+            "examId": "p2v6-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-07",
+    "title": "Teil 2 – Variante 7",
+    "context": "Fitnessuhr",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Fitnessuhr",
+        "theme": "funktionen",
+        "items": [
+          {
+            "id": "funktionen-046",
+            "theme": "funktionen",
+            "difficulty": "mittel",
+            "prompt": "Eine Gerade geht durch A(4|2) und B(8|-2). Bestimme die Steigung m.",
+            "answer": "-1",
+            "solution": "m=(y₂−y₁)/(x₂−x₁)=(-2−2)/(8−4)=-1.",
+            "hint1": "Änderung in y durch Änderung in x.",
+            "hint2": "m = Δy / Δx.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 0.001,
+            "examId": "p2v7-1-1"
+          },
+          {
+            "id": "funktionen-029",
+            "theme": "funktionen",
+            "difficulty": "mittel",
+            "prompt": "Gegeben ist y = -3x − 1. Bestimme y für x=4.",
+            "answer": "-13",
+            "solution": "y=-3·(4) − 1=-13.",
+            "hint1": "Setze x in die Funktionsgleichung ein.",
+            "hint2": "Zuerst multiplizieren, dann den y-Achsenabschnitt berücksichtigen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v7-1-2"
+          },
+          {
+            "id": "funktionen-074",
+            "theme": "funktionen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Eine Größe startet bei 500 und wächst jedes Jahr um 20 %. Wie groß ist sie nach 2 Jahren?",
+            "answer": "720,00",
+            "solution": "Wachstumsfaktor q=1+20/100=1,20. Nach 2 Jahren: 500·1,20^2=720,00.",
+            "hint1": "Bestimme zuerst den Wachstumsfaktor.",
+            "hint2": "q = 1 + p/100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 0.02,
+            "examId": "p2v7-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "daten",
+        "items": [
+          {
+            "id": "daten-090",
+            "theme": "daten",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Foto wird in 8 gleich große Felder geteilt. In einem typischen Feld werden etwa 21 Objekte gezählt. Schätze die Gesamtzahl.",
+            "answer": "168",
+            "solution": "Rastermethode: 8 Felder · ca. 21 Objekte/Feld = ca. 168 Objekte.",
+            "hint1": "Nutze die Rastermethode.",
+            "hint2": "Typische Anzahl pro Feld mal Zahl der Felder.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v7-2-1"
+          },
+          {
+            "id": "daten-095",
+            "theme": "daten",
+            "difficulty": "anspruchsvoll",
+            "prompt": "In einem Beutel sind 6 rote, 5 blaue und 5 grüne Kugeln. Wie groß ist die Wahrscheinlichkeit, rot oder blau zu ziehen, in Prozent?",
+            "answer": "68,8",
+            "solution": "Günstig=6+5=11; Gesamt=16. P=11/16≈68,8%.",
+            "hint1": "Addiere zuerst alle günstigen Kugeln.",
+            "hint2": "P=günstig/gesamt.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v7-2-2"
+          },
+          {
+            "id": "daten-073",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "Eine Umfrage ergibt 27, 35 und 13 Stimmen für drei Optionen. Wie viel Prozent entfallen auf Option 1?",
+            "answer": "36,0",
+            "solution": "Gesamt=75. Anteil Option 1: 27/75·100≈36,0%.",
+            "hint1": "Berechne zuerst die Gesamtzahl.",
+            "hint2": "Stimmen Option 1 / alle Stimmen · 100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v7-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "groessen",
+        "items": [
+          {
+            "id": "groessen-061",
+            "theme": "groessen",
+            "difficulty": "mittel",
+            "prompt": "Rechne um: 8000 m = ? km",
+            "answer": "8",
+            "solution": "Von m zu km wird durch 1000 geteilt: 8000:1000=8.",
+            "hint1": "Die Ziel-Einheit ist größer.",
+            "hint2": "Teile durch den Umrechnungsfaktor.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "km",
+            "tolerance": 1e-06,
+            "examId": "p2v7-3-1"
+          },
+          {
+            "id": "groessen-086",
+            "theme": "groessen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Auf einem Plan im Maßstab 1:100 ist eine Strecke 5,6 cm lang. Wie lang ist sie in Wirklichkeit in Metern?",
+            "answer": "5,6",
+            "solution": "5,6·100=560 cm = 5,6 m.",
+            "hint1": "Multipliziere die Planlänge mit der Maßstabszahl.",
+            "hint2": "Wandle danach Zentimeter in Meter um.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "m",
+            "tolerance": 0.01,
+            "examId": "p2v7-3-2"
+          },
+          {
+            "id": "groessen-096",
+            "theme": "groessen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Training beginnt um 10:50 Uhr und dauert 160 Minuten. Wann endet es?",
+            "answer": "13:30",
+            "solution": "Startzeit in Minuten: 650. +160=810. Das entspricht 13:30 Uhr.",
+            "hint1": "Rechne die Dauer zur Startzeit hinzu.",
+            "hint2": "Du kannst zunächst alles in Minuten umwandeln.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v7-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-08",
+    "title": "Teil 2 – Variante 8",
+    "context": "Bäckerei",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Bäckerei",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-039",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "15 entsprechen 25 %. Bestimme den Grundwert.",
+            "answer": "60",
+            "solution": "G = W : (25/100) = 60.",
+            "hint1": "100 % sind mehr als der gegebene Anteil.",
+            "hint2": "Teile den Prozentwert durch den Dezimalwert des Prozentsatzes.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 0.01,
+            "examId": "p2v8-1-1"
+          },
+          {
+            "id": "prozent-090",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Haushalt verbraucht in einem Monat 200 kWh Strom. Rechne mit 40,55 ct pro kWh. Wie hoch sind die reinen Verbrauchskosten?",
+            "answer": "81,10",
+            "solution": "40,55 ct = 0,4055 €. 200·0,4055 €=81,10 €.",
+            "hint1": "Wandle Cent in Euro um.",
+            "hint2": "40,55 ct = 0,4055 €.",
+            "choices": [],
+            "type": "input",
+            "source": "Destatis, durchschnittlicher Haushaltsstrompreis 2. Halbjahr 2025: 40,55 ct/kWh",
+            "unit": "€",
+            "tolerance": 0.02,
+            "examId": "p2v8-1-2"
+          },
+          {
+            "id": "prozent-070",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "Ein Sportshirt kostet 240 €. Im Angebot gibt es 25 % Rabatt. Wie hoch ist der neue Preis?",
+            "answer": "180,00",
+            "solution": "Rabatt: 240·25/100=60,00 €. Neuer Preis: 240−60,00=180,00 €.",
+            "hint1": "Berechne den Rabattbetrag.",
+            "hint2": "Ziehe den Rabatt vom ursprünglichen Preis ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v8-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "koerper",
+        "items": [
+          {
+            "id": "koerper-035",
+            "theme": "koerper",
+            "difficulty": "mittel",
+            "prompt": "Ein Würfel hat Kantenlänge 5 cm. Berechne die Oberfläche.",
+            "answer": "150",
+            "solution": "O=6a²=6·5²=150 cm².",
+            "hint1": "Ein Würfel hat sechs quadratische Flächen.",
+            "hint2": "6·a².",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm²",
+            "tolerance": 1e-06,
+            "examId": "p2v8-2-1"
+          },
+          {
+            "id": "koerper-027",
+            "theme": "koerper",
+            "difficulty": "mittel",
+            "prompt": "Ein Würfel hat Kantenlänge 5 cm. Berechne die Oberfläche.",
+            "answer": "150",
+            "solution": "O=6a²=6·5²=150 cm².",
+            "hint1": "Ein Würfel hat sechs quadratische Flächen.",
+            "hint2": "6·a².",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm²",
+            "tolerance": 1e-06,
+            "examId": "p2v8-2-2"
+          },
+          {
+            "id": "koerper-071",
+            "theme": "koerper",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Eine quadratische Pyramide hat Grundkante 7 cm und Höhe 4 cm. Berechne das Volumen.",
+            "answer": "65,33",
+            "solution": "G=7²=49; V=1/3·G·h=1/3·49·4=65,33 cm³.",
+            "hint1": "Pyramidenvolumen: ein Drittel von Grundfläche mal Höhe.",
+            "hint2": "V=1/3·G·h.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm³",
+            "tolerance": 0.02,
+            "examId": "p2v8-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "zahlen",
+        "items": [
+          {
+            "id": "zahlen-075",
+            "theme": "zahlen",
+            "difficulty": "mittel",
+            "prompt": "Bestimme √49.",
+            "answer": "7",
+            "solution": "Weil 7²=49, gilt √49=7.",
+            "hint1": "Gesucht ist die positive Zahl, deren Quadrat 49 ist.",
+            "hint2": "Teste Quadratzahlen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v8-3-1"
+          },
+          {
+            "id": "zahlen-074",
+            "theme": "zahlen",
+            "difficulty": "mittel",
+            "prompt": "Bestimme √49.",
+            "answer": "7",
+            "solution": "Weil 7²=49, gilt √49=7.",
+            "hint1": "Gesucht ist die positive Zahl, deren Quadrat 49 ist.",
+            "hint2": "Teste Quadratzahlen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v8-3-2"
+          },
+          {
+            "id": "zahlen-060",
+            "theme": "zahlen",
+            "difficulty": "mittel",
+            "prompt": "Berechne unter Beachtung von Punkt-vor-Strich: 5 · 11 + 4.",
+            "answer": "59",
+            "solution": "Zuerst 5·11=55, dann +4=59.",
+            "hint1": "Multipliziere zuerst.",
+            "hint2": "Punktrechnung vor Strichrechnung.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v8-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-09",
+    "title": "Teil 2 – Variante 9",
+    "context": "Gartenprojekt",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Gartenprojekt",
+        "theme": "geometrie",
+        "items": [
+          {
+            "id": "geometrie-048",
+            "theme": "geometrie",
+            "difficulty": "mittel",
+            "prompt": "Ein rechtwinkliges Dreieck hat Katheten 30 cm und 40 cm. Berechne die Hypotenuse.",
+            "answer": "50",
+            "solution": "c=√(30²+40²)=√(2500)=50 cm.",
+            "hint1": "Nutze a²+b²=c².",
+            "hint2": "Quadriere die Katheten, addiere und ziehe die Wurzel.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm",
+            "tolerance": 1e-06,
+            "examId": "p2v9-1-1"
+          },
+          {
+            "id": "geometrie-071",
+            "theme": "geometrie",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Auf einer Zeichnung im Maßstab 1:50 ist eine Strecke 8 cm lang. Berechne die reale Länge in Metern.",
+            "answer": "4",
+            "solution": "8·50=400 cm=4 m.",
+            "hint1": "Maßstab bedeutet: Zeichnung·Maßstabszahl.",
+            "hint2": "Danach cm in m umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "m",
+            "tolerance": 0.01,
+            "examId": "p2v9-1-2"
+          },
+          {
+            "id": "geometrie-088",
+            "theme": "geometrie",
+            "difficulty": "mittel",
+            "prompt": "Ein Dreieck hat Grundseite 5 cm und Höhe 5 cm. Berechne den Flächeninhalt.",
+            "answer": "12,5",
+            "solution": "A=g·h/2=5·5/2=12,5 cm².",
+            "hint1": "Dreiecksfläche ist die Hälfte von Grundseite mal Höhe.",
+            "hint2": "A=g·h/2.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm²",
+            "tolerance": 1e-06,
+            "examId": "p2v9-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "koerper",
+        "items": [
+          {
+            "id": "koerper-100",
+            "theme": "koerper",
+            "difficulty": "mittel",
+            "prompt": "40 kleine Würfel mit Kantenlänge 5 cm werden ohne Lücken zu einem Körper zusammengesetzt. Wie groß ist das Gesamtvolumen?",
+            "answer": "5000",
+            "solution": "Ein Würfel: 5³=125 cm³. 40 Würfel: 40·125=5000 cm³.",
+            "hint1": "Volumen eines kleinen Würfels mal Anzahl.",
+            "hint2": "a³·Anzahl.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm³",
+            "tolerance": 1e-06,
+            "examId": "p2v9-2-1"
+          },
+          {
+            "id": "koerper-041",
+            "theme": "koerper",
+            "difficulty": "mittel",
+            "prompt": "Ein Zylinder hat Radius 4 cm und Höhe 8 cm. Berechne das Volumen. Runde auf zwei Nachkommastellen.",
+            "answer": "402,12",
+            "solution": "V=π·r²·h=π·4²·8≈402,12 cm³.",
+            "hint1": "Grundfläche Kreis mal Höhe.",
+            "hint2": "V=πr²h.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm³",
+            "tolerance": 0.05,
+            "examId": "p2v9-2-2"
+          },
+          {
+            "id": "koerper-073",
+            "theme": "koerper",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Eine quadratische Pyramide hat Grundkante 9 cm und Höhe 11 cm. Berechne das Volumen.",
+            "answer": "297,00",
+            "solution": "G=9²=81; V=1/3·G·h=1/3·81·11=297,00 cm³.",
+            "hint1": "Pyramidenvolumen: ein Drittel von Grundfläche mal Höhe.",
+            "hint2": "V=1/3·G·h.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm³",
+            "tolerance": 0.02,
+            "examId": "p2v9-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-028",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "120 sind wie viel Prozent von 300?",
+            "answer": "40",
+            "solution": "p = W/G·100 = 120/300·100 = 40%.",
+            "hint1": "Teile den Anteil durch das Ganze.",
+            "hint2": "Danach ·100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.01,
+            "examId": "p2v9-3-1"
+          },
+          {
+            "id": "prozent-064",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "Ein Schulrucksack kostet 32 €. Im Angebot gibt es 25 % Rabatt. Wie hoch ist der neue Preis?",
+            "answer": "24,00",
+            "solution": "Rabatt: 32·25/100=8,00 €. Neuer Preis: 32−8,00=24,00 €.",
+            "hint1": "Berechne den Rabattbetrag.",
+            "hint2": "Ziehe den Rabatt vom ursprünglichen Preis ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v9-3-2"
+          },
+          {
+            "id": "prozent-043",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "30 entsprechen 25 %. Bestimme den Grundwert.",
+            "answer": "120",
+            "solution": "G = W : (25/100) = 120.",
+            "hint1": "100 % sind mehr als der gegebene Anteil.",
+            "hint2": "Teile den Prozentwert durch den Dezimalwert des Prozentsatzes.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 0.01,
+            "examId": "p2v9-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-10",
+    "title": "Teil 2 – Variante 10",
+    "context": "E-Scooter",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: E-Scooter",
+        "theme": "funktionen",
+        "items": [
+          {
+            "id": "funktionen-038",
+            "theme": "funktionen",
+            "difficulty": "mittel",
+            "prompt": "Eine Gerade geht durch A(3|5,5) und B(7|7,5). Bestimme die Steigung m.",
+            "answer": "0,5",
+            "solution": "m=(y₂−y₁)/(x₂−x₁)=(7,5−5,5)/(7−3)=0,5.",
+            "hint1": "Änderung in y durch Änderung in x.",
+            "hint2": "m = Δy / Δx.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 0.001,
+            "examId": "p2v10-1-1"
+          },
+          {
+            "id": "funktionen-083",
+            "theme": "funktionen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Der Wert eines Geräts beträgt anfangs 800 € und sinkt pro Jahr um 20 %. Wie hoch ist der Wert nach 2 Jahren?",
+            "answer": "512,00",
+            "solution": "Abnahmefaktor q=1−20/100=0,80. Wert: 800·0,80^2=512,00 €.",
+            "hint1": "Bei Abnahme ist q kleiner als 1.",
+            "hint2": "q=1−p/100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.02,
+            "examId": "p2v10-1-2"
+          },
+          {
+            "id": "funktionen-079",
+            "theme": "funktionen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Eine Größe startet bei 200 und wächst jedes Jahr um 5 %. Wie groß ist sie nach 3 Jahren?",
+            "answer": "231,53",
+            "solution": "Wachstumsfaktor q=1+5/100=1,05. Nach 3 Jahren: 200·1,05^3=231,53.",
+            "hint1": "Bestimme zuerst den Wachstumsfaktor.",
+            "hint2": "q = 1 + p/100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 0.02,
+            "examId": "p2v10-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "groessen",
+        "items": [
+          {
+            "id": "groessen-065",
+            "theme": "groessen",
+            "difficulty": "mittel",
+            "prompt": "Rechne um: 300 min = ? h",
+            "answer": "5",
+            "solution": "Von min zu h wird durch 60 geteilt: 300:60=5.",
+            "hint1": "Die Ziel-Einheit ist größer.",
+            "hint2": "Teile durch den Umrechnungsfaktor.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "h",
+            "tolerance": 1e-06,
+            "examId": "p2v10-2-1"
+          },
+          {
+            "id": "groessen-091",
+            "theme": "groessen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Training beginnt um 12:15 Uhr und dauert 96 Minuten. Wann endet es?",
+            "answer": "13:51",
+            "solution": "Startzeit in Minuten: 735. +96=831. Das entspricht 13:51 Uhr.",
+            "hint1": "Rechne die Dauer zur Startzeit hinzu.",
+            "hint2": "Du kannst zunächst alles in Minuten umwandeln.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v10-2-2"
+          },
+          {
+            "id": "groessen-085",
+            "theme": "groessen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Auf einem Plan im Maßstab 1:500 ist eine Strecke 3,5 cm lang. Wie lang ist sie in Wirklichkeit in Metern?",
+            "answer": "17,5",
+            "solution": "3,5·500=1750 cm = 17,5 m.",
+            "hint1": "Multipliziere die Planlänge mit der Maßstabszahl.",
+            "hint2": "Wandle danach Zentimeter in Meter um.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "m",
+            "tolerance": 0.01,
+            "examId": "p2v10-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-077",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Das Deutschland-Ticket kostet 2026 monatlich 63 €. Wie viel kosten 10 Monate insgesamt?",
+            "answer": "630",
+            "solution": "10·63 € = 630 €.",
+            "hint1": "Multipliziere Monatszahl und Monatspreis.",
+            "hint2": "63 € pro Monat.",
+            "choices": [],
+            "type": "input",
+            "source": "Deutsche Bahn, Deutschland-Ticket 2026: 63 € pro Monat",
+            "unit": "€",
+            "tolerance": 1e-06,
+            "examId": "p2v10-3-1"
+          },
+          {
+            "id": "prozent-078",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Das Deutschland-Ticket kostet 2026 monatlich 63 €. Wie viel kosten 4 Monate insgesamt?",
+            "answer": "252",
+            "solution": "4·63 € = 252 €.",
+            "hint1": "Multipliziere Monatszahl und Monatspreis.",
+            "hint2": "63 € pro Monat.",
+            "choices": [],
+            "type": "input",
+            "source": "Deutsche Bahn, Deutschland-Ticket 2026: 63 € pro Monat",
+            "unit": "€",
+            "tolerance": 1e-06,
+            "examId": "p2v10-3-2"
+          },
+          {
+            "id": "prozent-053",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "Ein Kopfhörer kostet 40 €. Im Angebot gibt es 30 % Rabatt. Wie hoch ist der neue Preis?",
+            "answer": "28,00",
+            "solution": "Rabatt: 40·30/100=12,00 €. Neuer Preis: 40−12,00=28,00 €.",
+            "hint1": "Berechne den Rabattbetrag.",
+            "hint2": "Ziehe den Rabatt vom ursprünglichen Preis ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v10-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-11",
+    "title": "Teil 2 – Variante 11",
+    "context": "Freizeitpark",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Freizeitpark",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-087",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Haushalt verbraucht in einem Monat 250 kWh Strom. Rechne mit 40,55 ct pro kWh. Wie hoch sind die reinen Verbrauchskosten?",
+            "answer": "101,38",
+            "solution": "40,55 ct = 0,4055 €. 250·0,4055 €=101,38 €.",
+            "hint1": "Wandle Cent in Euro um.",
+            "hint2": "40,55 ct = 0,4055 €.",
+            "choices": [],
+            "type": "input",
+            "source": "Destatis, durchschnittlicher Haushaltsstrompreis 2. Halbjahr 2025: 40,55 ct/kWh",
+            "unit": "€",
+            "tolerance": 0.02,
+            "examId": "p2v11-1-1"
+          },
+          {
+            "id": "prozent-090",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Haushalt verbraucht in einem Monat 200 kWh Strom. Rechne mit 40,55 ct pro kWh. Wie hoch sind die reinen Verbrauchskosten?",
+            "answer": "81,10",
+            "solution": "40,55 ct = 0,4055 €. 200·0,4055 €=81,10 €.",
+            "hint1": "Wandle Cent in Euro um.",
+            "hint2": "40,55 ct = 0,4055 €.",
+            "choices": [],
+            "type": "input",
+            "source": "Destatis, durchschnittlicher Haushaltsstrompreis 2. Halbjahr 2025: 40,55 ct/kWh",
+            "unit": "€",
+            "tolerance": 0.02,
+            "examId": "p2v11-1-2"
+          },
+          {
+            "id": "prozent-052",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "Ein Rucksack kostet 60 €. Im Angebot gibt es 15 % Rabatt. Wie hoch ist der neue Preis?",
+            "answer": "51,00",
+            "solution": "Rabatt: 60·15/100=9,00 €. Neuer Preis: 60−9,00=51,00 €.",
+            "hint1": "Berechne den Rabattbetrag.",
+            "hint2": "Ziehe den Rabatt vom ursprünglichen Preis ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v11-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "daten",
+        "items": [
+          {
+            "id": "daten-070",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "In einer Box liegen 40 Lose, davon 15 Gewinne. Wie groß ist die Gewinnwahrscheinlichkeit in Prozent?",
+            "answer": "37,5",
+            "solution": "P=15/40=0,375=37,5%.",
+            "hint1": "Günstige Ergebnisse durch alle Ergebnisse.",
+            "hint2": "Dann in Prozent umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v11-2-1"
+          },
+          {
+            "id": "daten-061",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "In einer Box liegen 100 Lose, davon 42 Gewinne. Wie groß ist die Gewinnwahrscheinlichkeit in Prozent?",
+            "answer": "42,0",
+            "solution": "P=42/100=0,420=42,0%.",
+            "hint1": "Günstige Ergebnisse durch alle Ergebnisse.",
+            "hint2": "Dann in Prozent umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v11-2-2"
+          },
+          {
+            "id": "daten-069",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "In einer Box liegen 40 Lose, davon 19 Gewinne. Wie groß ist die Gewinnwahrscheinlichkeit in Prozent?",
+            "answer": "47,5",
+            "solution": "P=19/40=0,475=47,5%.",
+            "hint1": "Günstige Ergebnisse durch alle Ergebnisse.",
+            "hint2": "Dann in Prozent umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v11-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "groessen",
+        "items": [
+          {
+            "id": "groessen-054",
+            "theme": "groessen",
+            "difficulty": "mittel",
+            "prompt": "Rechne um: 18000 g = ? kg",
+            "answer": "18",
+            "solution": "Von g zu kg wird durch 1000 geteilt: 18000:1000=18.",
+            "hint1": "Die Ziel-Einheit ist größer.",
+            "hint2": "Teile durch den Umrechnungsfaktor.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "kg",
+            "tolerance": 1e-06,
+            "examId": "p2v11-3-1"
+          },
+          {
+            "id": "groessen-092",
+            "theme": "groessen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Training beginnt um 07:00 Uhr und dauert 98 Minuten. Wann endet es?",
+            "answer": "08:38",
+            "solution": "Startzeit in Minuten: 420. +98=518. Das entspricht 08:38 Uhr.",
+            "hint1": "Rechne die Dauer zur Startzeit hinzu.",
+            "hint2": "Du kannst zunächst alles in Minuten umwandeln.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v11-3-2"
+          },
+          {
+            "id": "groessen-074",
+            "theme": "groessen",
+            "difficulty": "mittel",
+            "prompt": "Eine Busfahrt dauert 0 h 45 min. Wie viele Minuten sind das?",
+            "answer": "45",
+            "solution": "0 h = 0 min. Dazu 45 min: 45 min.",
+            "hint1": "Wandle Stunden in Minuten um.",
+            "hint2": "1 h = 60 min.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "min",
+            "tolerance": 1e-06,
+            "examId": "p2v11-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-12",
+    "title": "Teil 2 – Variante 12",
+    "context": "Konzert",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Konzert",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-033",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "90 sind wie viel Prozent von 300?",
+            "answer": "30",
+            "solution": "p = W/G·100 = 90/300·100 = 30%.",
+            "hint1": "Teile den Anteil durch das Ganze.",
+            "hint2": "Danach ·100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.01,
+            "examId": "p2v12-1-1"
+          },
+          {
+            "id": "prozent-081",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Haushalt verbraucht in einem Monat 300 kWh Strom. Rechne mit 40,55 ct pro kWh. Wie hoch sind die reinen Verbrauchskosten?",
+            "answer": "121,65",
+            "solution": "40,55 ct = 0,4055 €. 300·0,4055 €=121,65 €.",
+            "hint1": "Wandle Cent in Euro um.",
+            "hint2": "40,55 ct = 0,4055 €.",
+            "choices": [],
+            "type": "input",
+            "source": "Destatis, durchschnittlicher Haushaltsstrompreis 2. Halbjahr 2025: 40,55 ct/kWh",
+            "unit": "€",
+            "tolerance": 0.02,
+            "examId": "p2v12-1-2"
+          },
+          {
+            "id": "prozent-067",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "Ein Sneaker kostet 80 €. Im Angebot gibt es 20 % Rabatt. Wie hoch ist der neue Preis?",
+            "answer": "64,00",
+            "solution": "Rabatt: 80·20/100=16,00 €. Neuer Preis: 80−16,00=64,00 €.",
+            "hint1": "Berechne den Rabattbetrag.",
+            "hint2": "Ziehe den Rabatt vom ursprünglichen Preis ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v12-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "zahlen",
+        "items": [
+          {
+            "id": "zahlen-063",
+            "theme": "zahlen",
+            "difficulty": "mittel",
+            "prompt": "Welche Zahl ist 4²?",
+            "answer": "16",
+            "solution": "4²=4·4=16.",
+            "hint1": "Quadrat bedeutet mal sich selbst.",
+            "hint2": "Multipliziere 4 mit 4.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v12-2-1"
+          },
+          {
+            "id": "zahlen-072",
+            "theme": "zahlen",
+            "difficulty": "mittel",
+            "prompt": "Bestimme √289.",
+            "answer": "17",
+            "solution": "Weil 17²=289, gilt √289=17.",
+            "hint1": "Gesucht ist die positive Zahl, deren Quadrat 289 ist.",
+            "hint2": "Teste Quadratzahlen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v12-2-2"
+          },
+          {
+            "id": "zahlen-088",
+            "theme": "zahlen",
+            "difficulty": "mittel",
+            "prompt": "Runde 276,23 auf eine Nachkommastelle.",
+            "answer": "276,2",
+            "solution": "Betrachte die nächste Stelle und runde: 276,2.",
+            "hint1": "Die nächste Ziffer entscheidet.",
+            "hint2": "0–4 abrunden, 5–9 aufrunden.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v12-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "daten",
+        "items": [
+          {
+            "id": "daten-051",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "In einer Box liegen 30 Lose, davon 11 Gewinne. Wie groß ist die Gewinnwahrscheinlichkeit in Prozent?",
+            "answer": "36,7",
+            "solution": "P=11/30=0,367=36,7%.",
+            "hint1": "Günstige Ergebnisse durch alle Ergebnisse.",
+            "hint2": "Dann in Prozent umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v12-3-1"
+          },
+          {
+            "id": "daten-083",
+            "theme": "daten",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Foto wird in 10 gleich große Felder geteilt. In einem typischen Feld werden etwa 17 Objekte gezählt. Schätze die Gesamtzahl.",
+            "answer": "170",
+            "solution": "Rastermethode: 10 Felder · ca. 17 Objekte/Feld = ca. 170 Objekte.",
+            "hint1": "Nutze die Rastermethode.",
+            "hint2": "Typische Anzahl pro Feld mal Zahl der Felder.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v12-3-2"
+          },
+          {
+            "id": "daten-090",
+            "theme": "daten",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Foto wird in 8 gleich große Felder geteilt. In einem typischen Feld werden etwa 21 Objekte gezählt. Schätze die Gesamtzahl.",
+            "answer": "168",
+            "solution": "Rastermethode: 8 Felder · ca. 21 Objekte/Feld = ca. 168 Objekte.",
+            "hint1": "Nutze die Rastermethode.",
+            "hint2": "Typische Anzahl pro Feld mal Zahl der Felder.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v12-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-13",
+    "title": "Teil 2 – Variante 13",
+    "context": "Smartphone",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Smartphone",
+        "theme": "daten",
+        "items": [
+          {
+            "id": "daten-078",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "Eine Umfrage ergibt 35, 16 und 25 Stimmen für drei Optionen. Wie viel Prozent entfallen auf Option 1?",
+            "answer": "46,1",
+            "solution": "Gesamt=76. Anteil Option 1: 35/76·100≈46,1%.",
+            "hint1": "Berechne zuerst die Gesamtzahl.",
+            "hint2": "Stimmen Option 1 / alle Stimmen · 100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v13-1-1"
+          },
+          {
+            "id": "daten-054",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "In einer Box liegen 30 Lose, davon 2 Gewinne. Wie groß ist die Gewinnwahrscheinlichkeit in Prozent?",
+            "answer": "6,7",
+            "solution": "P=2/30=0,067=6,7%.",
+            "hint1": "Günstige Ergebnisse durch alle Ergebnisse.",
+            "hint2": "Dann in Prozent umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v13-1-2"
+          },
+          {
+            "id": "daten-076",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "Eine Umfrage ergibt 16, 25 und 21 Stimmen für drei Optionen. Wie viel Prozent entfallen auf Option 1?",
+            "answer": "25,8",
+            "solution": "Gesamt=62. Anteil Option 1: 16/62·100≈25,8%.",
+            "hint1": "Berechne zuerst die Gesamtzahl.",
+            "hint2": "Stimmen Option 1 / alle Stimmen · 100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v13-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "funktionen",
+        "items": [
+          {
+            "id": "funktionen-064",
+            "theme": "funktionen",
+            "difficulty": "mittel",
+            "prompt": "Ein Leihdienst berechnet 3,00 € Startgebühr und 0,25 € pro Minute. Wie viel kosten 25 Minuten?",
+            "answer": "9,25",
+            "solution": "Kosten y=0,25·25+3,00=9,25 €.",
+            "hint1": "Lineares Modell: variable Kosten + Startgebühr.",
+            "hint2": "Minutenpreis·Minuten + Startgebühr.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v13-2-1"
+          },
+          {
+            "id": "funktionen-070",
+            "theme": "funktionen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Eine Größe startet bei 800 und wächst jedes Jahr um 20 %. Wie groß ist sie nach 3 Jahren?",
+            "answer": "1382,40",
+            "solution": "Wachstumsfaktor q=1+20/100=1,20. Nach 3 Jahren: 800·1,20^3=1382,40.",
+            "hint1": "Bestimme zuerst den Wachstumsfaktor.",
+            "hint2": "q = 1 + p/100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 0.02,
+            "examId": "p2v13-2-2"
+          },
+          {
+            "id": "funktionen-094",
+            "theme": "funktionen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Welche Aussage passt zur Geraden y=3x − 5?",
+            "answer": "m=3;n=-5",
+            "solution": "Die Steigung ist m=3; der y-Achsenabschnitt ist n=-5.",
+            "hint1": "Lies m und n direkt aus y=mx+n.",
+            "hint2": "m steht vor x, n ist die Konstante.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v13-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-086",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Haushalt verbraucht in einem Monat 180 kWh Strom. Rechne mit 40,55 ct pro kWh. Wie hoch sind die reinen Verbrauchskosten?",
+            "answer": "72,99",
+            "solution": "40,55 ct = 0,4055 €. 180·0,4055 €=72,99 €.",
+            "hint1": "Wandle Cent in Euro um.",
+            "hint2": "40,55 ct = 0,4055 €.",
+            "choices": [],
+            "type": "input",
+            "source": "Destatis, durchschnittlicher Haushaltsstrompreis 2. Halbjahr 2025: 40,55 ct/kWh",
+            "unit": "€",
+            "tolerance": 0.02,
+            "examId": "p2v13-3-1"
+          },
+          {
+            "id": "prozent-078",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Das Deutschland-Ticket kostet 2026 monatlich 63 €. Wie viel kosten 4 Monate insgesamt?",
+            "answer": "252",
+            "solution": "4·63 € = 252 €.",
+            "hint1": "Multipliziere Monatszahl und Monatspreis.",
+            "hint2": "63 € pro Monat.",
+            "choices": [],
+            "type": "input",
+            "source": "Deutsche Bahn, Deutschland-Ticket 2026: 63 € pro Monat",
+            "unit": "€",
+            "tolerance": 1e-06,
+            "examId": "p2v13-3-2"
+          },
+          {
+            "id": "prozent-073",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Das Deutschland-Ticket kostet 2026 monatlich 63 €. Wie viel kosten 5 Monate insgesamt?",
+            "answer": "315",
+            "solution": "5·63 € = 315 €.",
+            "hint1": "Multipliziere Monatszahl und Monatspreis.",
+            "hint2": "63 € pro Monat.",
+            "choices": [],
+            "type": "input",
+            "source": "Deutsche Bahn, Deutschland-Ticket 2026: 63 € pro Monat",
+            "unit": "€",
+            "tolerance": 1e-06,
+            "examId": "p2v13-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-14",
+    "title": "Teil 2 – Variante 14",
+    "context": "Wasserflasche",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Wasserflasche",
+        "theme": "koerper",
+        "items": [
+          {
+            "id": "koerper-061",
+            "theme": "koerper",
+            "difficulty": "mittel",
+            "prompt": "Ein gerades Prisma hat eine rechteckige Grundfläche 4 cm × 5 cm und Höhe 7 cm. Berechne das Volumen.",
+            "answer": "140",
+            "solution": "G=4·5=20 cm²; V=G·h=20·7=140 cm³.",
+            "hint1": "Berechne zuerst die Grundfläche.",
+            "hint2": "V=G·h.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm³",
+            "tolerance": 1e-06,
+            "examId": "p2v14-1-1"
+          },
+          {
+            "id": "koerper-095",
+            "theme": "koerper",
+            "difficulty": "mittel",
+            "prompt": "13 kleine Würfel mit Kantenlänge 5 cm werden ohne Lücken zu einem Körper zusammengesetzt. Wie groß ist das Gesamtvolumen?",
+            "answer": "1625",
+            "solution": "Ein Würfel: 5³=125 cm³. 13 Würfel: 13·125=1625 cm³.",
+            "hint1": "Volumen eines kleinen Würfels mal Anzahl.",
+            "hint2": "a³·Anzahl.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm³",
+            "tolerance": 1e-06,
+            "examId": "p2v14-1-2"
+          },
+          {
+            "id": "koerper-072",
+            "theme": "koerper",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Eine quadratische Pyramide hat Grundkante 10 cm und Höhe 13 cm. Berechne das Volumen.",
+            "answer": "433,33",
+            "solution": "G=10²=100; V=1/3·G·h=1/3·100·13=433,33 cm³.",
+            "hint1": "Pyramidenvolumen: ein Drittel von Grundfläche mal Höhe.",
+            "hint2": "V=1/3·G·h.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm³",
+            "tolerance": 0.02,
+            "examId": "p2v14-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "groessen",
+        "items": [
+          {
+            "id": "groessen-063",
+            "theme": "groessen",
+            "difficulty": "mittel",
+            "prompt": "Rechne um: 1440 s = ? min",
+            "answer": "24",
+            "solution": "Von s zu min wird durch 60 geteilt: 1440:60=24.",
+            "hint1": "Die Ziel-Einheit ist größer.",
+            "hint2": "Teile durch den Umrechnungsfaktor.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "min",
+            "tolerance": 1e-06,
+            "examId": "p2v14-2-1"
+          },
+          {
+            "id": "groessen-072",
+            "theme": "groessen",
+            "difficulty": "mittel",
+            "prompt": "Eine Busfahrt dauert 0 h 15 min. Wie viele Minuten sind das?",
+            "answer": "15",
+            "solution": "0 h = 0 min. Dazu 15 min: 15 min.",
+            "hint1": "Wandle Stunden in Minuten um.",
+            "hint2": "1 h = 60 min.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "min",
+            "tolerance": 1e-06,
+            "examId": "p2v14-2-2"
+          },
+          {
+            "id": "groessen-064",
+            "theme": "groessen",
+            "difficulty": "mittel",
+            "prompt": "Rechne um: 230 cm = ? dm",
+            "answer": "23",
+            "solution": "Von cm zu dm wird durch 10 geteilt: 230:10=23.",
+            "hint1": "Die Ziel-Einheit ist größer.",
+            "hint2": "Teile durch den Umrechnungsfaktor.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "dm",
+            "tolerance": 1e-06,
+            "examId": "p2v14-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-075",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Das Deutschland-Ticket kostet 2026 monatlich 63 €. Wie viel kosten 2 Monate insgesamt?",
+            "answer": "126",
+            "solution": "2·63 € = 126 €.",
+            "hint1": "Multipliziere Monatszahl und Monatspreis.",
+            "hint2": "63 € pro Monat.",
+            "choices": [],
+            "type": "input",
+            "source": "Deutsche Bahn, Deutschland-Ticket 2026: 63 € pro Monat",
+            "unit": "€",
+            "tolerance": 1e-06,
+            "examId": "p2v14-3-1"
+          },
+          {
+            "id": "prozent-076",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Das Deutschland-Ticket kostet 2026 monatlich 63 €. Wie viel kosten 8 Monate insgesamt?",
+            "answer": "504",
+            "solution": "8·63 € = 504 €.",
+            "hint1": "Multipliziere Monatszahl und Monatspreis.",
+            "hint2": "63 € pro Monat.",
+            "choices": [],
+            "type": "input",
+            "source": "Deutsche Bahn, Deutschland-Ticket 2026: 63 € pro Monat",
+            "unit": "€",
+            "tolerance": 1e-06,
+            "examId": "p2v14-3-2"
+          },
+          {
+            "id": "prozent-084",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Haushalt verbraucht in einem Monat 300 kWh Strom. Rechne mit 40,55 ct pro kWh. Wie hoch sind die reinen Verbrauchskosten?",
+            "answer": "121,65",
+            "solution": "40,55 ct = 0,4055 €. 300·0,4055 €=121,65 €.",
+            "hint1": "Wandle Cent in Euro um.",
+            "hint2": "40,55 ct = 0,4055 €.",
+            "choices": [],
+            "type": "input",
+            "source": "Destatis, durchschnittlicher Haushaltsstrompreis 2. Halbjahr 2025: 40,55 ct/kWh",
+            "unit": "€",
+            "tolerance": 0.02,
+            "examId": "p2v14-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-15",
+    "title": "Teil 2 – Variante 15",
+    "context": "Paketversand",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Paketversand",
+        "theme": "koerper",
+        "items": [
+          {
+            "id": "koerper-030",
+            "theme": "koerper",
+            "difficulty": "mittel",
+            "prompt": "Ein Würfel hat Kantenlänge 7 cm. Berechne die Oberfläche.",
+            "answer": "294",
+            "solution": "O=6a²=6·7²=294 cm².",
+            "hint1": "Ein Würfel hat sechs quadratische Flächen.",
+            "hint2": "6·a².",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm²",
+            "tolerance": 1e-06,
+            "examId": "p2v15-1-1"
+          },
+          {
+            "id": "koerper-026",
+            "theme": "koerper",
+            "difficulty": "mittel",
+            "prompt": "Ein Würfel hat Kantenlänge 10 cm. Berechne die Oberfläche.",
+            "answer": "600",
+            "solution": "O=6a²=6·10²=600 cm².",
+            "hint1": "Ein Würfel hat sechs quadratische Flächen.",
+            "hint2": "6·a².",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm²",
+            "tolerance": 1e-06,
+            "examId": "p2v15-1-2"
+          },
+          {
+            "id": "koerper-037",
+            "theme": "koerper",
+            "difficulty": "mittel",
+            "prompt": "Ein Zylinder hat Radius 8 cm und Höhe 11 cm. Berechne das Volumen. Runde auf zwei Nachkommastellen.",
+            "answer": "2211,68",
+            "solution": "V=π·r²·h=π·8²·11≈2211,68 cm³.",
+            "hint1": "Grundfläche Kreis mal Höhe.",
+            "hint2": "V=πr²h.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm³",
+            "tolerance": 0.05,
+            "examId": "p2v15-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "groessen",
+        "items": [
+          {
+            "id": "groessen-098",
+            "theme": "groessen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Training beginnt um 17:50 Uhr und dauert 76 Minuten. Wann endet es?",
+            "answer": "19:06",
+            "solution": "Startzeit in Minuten: 1070. +76=1146. Das entspricht 19:06 Uhr.",
+            "hint1": "Rechne die Dauer zur Startzeit hinzu.",
+            "hint2": "Du kannst zunächst alles in Minuten umwandeln.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v15-2-1"
+          },
+          {
+            "id": "groessen-091",
+            "theme": "groessen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Training beginnt um 12:15 Uhr und dauert 96 Minuten. Wann endet es?",
+            "answer": "13:51",
+            "solution": "Startzeit in Minuten: 735. +96=831. Das entspricht 13:51 Uhr.",
+            "hint1": "Rechne die Dauer zur Startzeit hinzu.",
+            "hint2": "Du kannst zunächst alles in Minuten umwandeln.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v15-2-2"
+          },
+          {
+            "id": "groessen-097",
+            "theme": "groessen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Training beginnt um 17:40 Uhr und dauert 102 Minuten. Wann endet es?",
+            "answer": "19:22",
+            "solution": "Startzeit in Minuten: 1060. +102=1162. Das entspricht 19:22 Uhr.",
+            "hint1": "Rechne die Dauer zur Startzeit hinzu.",
+            "hint2": "Du kannst zunächst alles in Minuten umwandeln.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v15-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "zahlen",
+        "items": [
+          {
+            "id": "zahlen-056",
+            "theme": "zahlen",
+            "difficulty": "mittel",
+            "prompt": "Berechne unter Beachtung von Punkt-vor-Strich: 9 · 4 + 10.",
+            "answer": "46",
+            "solution": "Zuerst 9·4=36, dann +10=46.",
+            "hint1": "Multipliziere zuerst.",
+            "hint2": "Punktrechnung vor Strichrechnung.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v15-3-1"
+          },
+          {
+            "id": "zahlen-092",
+            "theme": "zahlen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Im Kino kosten Snacks 16,79 € pro Person. 4 Personen kaufen jeweils einen. Sie zahlen zusammen 70 €. Wie viel Rückgeld erhalten sie?",
+            "answer": "2,84",
+            "solution": "Gesamtpreis: 4·16,79 €=67,16 €. Rückgeld: 70−67,16=2,84 €.",
+            "hint1": "Berechne zuerst den Gesamtpreis.",
+            "hint2": "Ziehe den Gesamtpreis vom gezahlten Betrag ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v15-3-2"
+          },
+          {
+            "id": "zahlen-083",
+            "theme": "zahlen",
+            "difficulty": "mittel",
+            "prompt": "Runde 929,01 auf ganze Zahl.",
+            "answer": "929",
+            "solution": "Betrachte die nächste Stelle und runde: 929.",
+            "hint1": "Die nächste Ziffer entscheidet.",
+            "hint2": "0–4 abrunden, 5–9 aufrunden.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v15-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-16",
+    "title": "Teil 2 – Variante 16",
+    "context": "Solarprojekt",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Solarprojekt",
+        "theme": "funktionen",
+        "items": [
+          {
+            "id": "funktionen-078",
+            "theme": "funktionen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Eine Größe startet bei 200 und wächst jedes Jahr um 10 %. Wie groß ist sie nach 3 Jahren?",
+            "answer": "266,20",
+            "solution": "Wachstumsfaktor q=1+10/100=1,10. Nach 3 Jahren: 200·1,10^3=266,20.",
+            "hint1": "Bestimme zuerst den Wachstumsfaktor.",
+            "hint2": "q = 1 + p/100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 0.02,
+            "examId": "p2v16-1-1"
+          },
+          {
+            "id": "funktionen-091",
+            "theme": "funktionen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Welche Aussage passt zur Geraden y=2x + 0?",
+            "answer": "m=2;n=0",
+            "solution": "Die Steigung ist m=2; der y-Achsenabschnitt ist n=0.",
+            "hint1": "Lies m und n direkt aus y=mx+n.",
+            "hint2": "m steht vor x, n ist die Konstante.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v16-1-2"
+          },
+          {
+            "id": "funktionen-053",
+            "theme": "funktionen",
+            "difficulty": "mittel",
+            "prompt": "Ein Leihdienst berechnet 1,00 € Startgebühr und 0,30 € pro Minute. Wie viel kosten 20 Minuten?",
+            "answer": "7,00",
+            "solution": "Kosten y=0,30·20+1,00=7,00 €.",
+            "hint1": "Lineares Modell: variable Kosten + Startgebühr.",
+            "hint2": "Minutenpreis·Minuten + Startgebühr.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v16-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-031",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "40 sind wie viel Prozent von 200?",
+            "answer": "20",
+            "solution": "p = W/G·100 = 40/200·100 = 20%.",
+            "hint1": "Teile den Anteil durch das Ganze.",
+            "hint2": "Danach ·100.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.01,
+            "examId": "p2v16-2-1"
+          },
+          {
+            "id": "prozent-058",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "Ein Fahrradhelm kostet 24 €. Im Angebot gibt es 25 % Rabatt. Wie hoch ist der neue Preis?",
+            "answer": "18,00",
+            "solution": "Rabatt: 24·25/100=6,00 €. Neuer Preis: 24−6,00=18,00 €.",
+            "hint1": "Berechne den Rabattbetrag.",
+            "hint2": "Ziehe den Rabatt vom ursprünglichen Preis ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v16-2-2"
+          },
+          {
+            "id": "prozent-037",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "50 entsprechen 40 %. Bestimme den Grundwert.",
+            "answer": "125",
+            "solution": "G = W : (40/100) = 125.",
+            "hint1": "100 % sind mehr als der gegebene Anteil.",
+            "hint2": "Teile den Prozentwert durch den Dezimalwert des Prozentsatzes.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 0.01,
+            "examId": "p2v16-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "geometrie",
+        "items": [
+          {
+            "id": "geometrie-035",
+            "theme": "geometrie",
+            "difficulty": "mittel",
+            "prompt": "Ein rechtwinkliges Dreieck hat Katheten 7 cm und 24 cm. Berechne die Hypotenuse.",
+            "answer": "25",
+            "solution": "c=√(7²+24²)=√(625)=25 cm.",
+            "hint1": "Nutze a²+b²=c².",
+            "hint2": "Quadriere die Katheten, addiere und ziehe die Wurzel.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm",
+            "tolerance": 1e-06,
+            "examId": "p2v16-3-1"
+          },
+          {
+            "id": "geometrie-062",
+            "theme": "geometrie",
+            "difficulty": "mittel",
+            "prompt": "Ein Kreis hat Radius 3 cm. Berechne seinen Umfang. Runde auf zwei Nachkommastellen.",
+            "answer": "18,85",
+            "solution": "u=2·π·r=2·π·3≈18,85 cm.",
+            "hint1": "u=2πr.",
+            "hint2": "Setze den Radius ein.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm",
+            "tolerance": 0.03,
+            "examId": "p2v16-3-2"
+          },
+          {
+            "id": "geometrie-089",
+            "theme": "geometrie",
+            "difficulty": "mittel",
+            "prompt": "Ein Dreieck hat Grundseite 8 cm und Höhe 9 cm. Berechne den Flächeninhalt.",
+            "answer": "36",
+            "solution": "A=g·h/2=8·9/2=36 cm².",
+            "hint1": "Dreiecksfläche ist die Hälfte von Grundseite mal Höhe.",
+            "hint2": "A=g·h/2.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm²",
+            "tolerance": 1e-06,
+            "examId": "p2v16-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-17",
+    "title": "Teil 2 – Variante 17",
+    "context": "Klassenfahrt",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Klassenfahrt",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-046",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "15 entsprechen 40 %. Bestimme den Grundwert.",
+            "answer": "37,5",
+            "solution": "G = W : (40/100) = 37,5.",
+            "hint1": "100 % sind mehr als der gegebene Anteil.",
+            "hint2": "Teile den Prozentwert durch den Dezimalwert des Prozentsatzes.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 0.01,
+            "examId": "p2v17-1-1"
+          },
+          {
+            "id": "prozent-077",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Das Deutschland-Ticket kostet 2026 monatlich 63 €. Wie viel kosten 10 Monate insgesamt?",
+            "answer": "630",
+            "solution": "10·63 € = 630 €.",
+            "hint1": "Multipliziere Monatszahl und Monatspreis.",
+            "hint2": "63 € pro Monat.",
+            "choices": [],
+            "type": "input",
+            "source": "Deutsche Bahn, Deutschland-Ticket 2026: 63 € pro Monat",
+            "unit": "€",
+            "tolerance": 1e-06,
+            "examId": "p2v17-1-2"
+          },
+          {
+            "id": "prozent-064",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "Ein Schulrucksack kostet 32 €. Im Angebot gibt es 25 % Rabatt. Wie hoch ist der neue Preis?",
+            "answer": "24,00",
+            "solution": "Rabatt: 32·25/100=8,00 €. Neuer Preis: 32−8,00=24,00 €.",
+            "hint1": "Berechne den Rabattbetrag.",
+            "hint2": "Ziehe den Rabatt vom ursprünglichen Preis ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v17-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "groessen",
+        "items": [
+          {
+            "id": "groessen-071",
+            "theme": "groessen",
+            "difficulty": "mittel",
+            "prompt": "Eine Busfahrt dauert 3 h 45 min. Wie viele Minuten sind das?",
+            "answer": "225",
+            "solution": "3 h = 180 min. Dazu 45 min: 225 min.",
+            "hint1": "Wandle Stunden in Minuten um.",
+            "hint2": "1 h = 60 min.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "min",
+            "tolerance": 1e-06,
+            "examId": "p2v17-2-1"
+          },
+          {
+            "id": "groessen-083",
+            "theme": "groessen",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Auf einem Plan im Maßstab 1:200 ist eine Strecke 4,2 cm lang. Wie lang ist sie in Wirklichkeit in Metern?",
+            "answer": "8,4",
+            "solution": "4,2·200=840 cm = 8,4 m.",
+            "hint1": "Multipliziere die Planlänge mit der Maßstabszahl.",
+            "hint2": "Wandle danach Zentimeter in Meter um.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "m",
+            "tolerance": 0.01,
+            "examId": "p2v17-2-2"
+          },
+          {
+            "id": "groessen-064",
+            "theme": "groessen",
+            "difficulty": "mittel",
+            "prompt": "Rechne um: 230 cm = ? dm",
+            "answer": "23",
+            "solution": "Von cm zu dm wird durch 10 geteilt: 230:10=23.",
+            "hint1": "Die Ziel-Einheit ist größer.",
+            "hint2": "Teile durch den Umrechnungsfaktor.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "dm",
+            "tolerance": 1e-06,
+            "examId": "p2v17-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "daten",
+        "items": [
+          {
+            "id": "daten-097",
+            "theme": "daten",
+            "difficulty": "anspruchsvoll",
+            "prompt": "In einem Beutel sind 2 rote, 3 blaue und 1 grüne Kugeln. Wie groß ist die Wahrscheinlichkeit, rot oder blau zu ziehen, in Prozent?",
+            "answer": "83,3",
+            "solution": "Günstig=2+3=5; Gesamt=6. P=5/6≈83,3%.",
+            "hint1": "Addiere zuerst alle günstigen Kugeln.",
+            "hint2": "P=günstig/gesamt.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v17-3-1"
+          },
+          {
+            "id": "daten-055",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "In einer Box liegen 40 Lose, davon 14 Gewinne. Wie groß ist die Gewinnwahrscheinlichkeit in Prozent?",
+            "answer": "35,0",
+            "solution": "P=14/40=0,350=35,0%.",
+            "hint1": "Günstige Ergebnisse durch alle Ergebnisse.",
+            "hint2": "Dann in Prozent umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v17-3-2"
+          },
+          {
+            "id": "daten-083",
+            "theme": "daten",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Foto wird in 10 gleich große Felder geteilt. In einem typischen Feld werden etwa 17 Objekte gezählt. Schätze die Gesamtzahl.",
+            "answer": "170",
+            "solution": "Rastermethode: 10 Felder · ca. 17 Objekte/Feld = ca. 170 Objekte.",
+            "hint1": "Nutze die Rastermethode.",
+            "hint2": "Typische Anzahl pro Feld mal Zahl der Felder.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v17-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-18",
+    "title": "Teil 2 – Variante 18",
+    "context": "Kiosk",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Kiosk",
+        "theme": "zahlen",
+        "items": [
+          {
+            "id": "zahlen-085",
+            "theme": "zahlen",
+            "difficulty": "mittel",
+            "prompt": "Runde 563,21 auf ganze Zahl.",
+            "answer": "563",
+            "solution": "Betrachte die nächste Stelle und runde: 563.",
+            "hint1": "Die nächste Ziffer entscheidet.",
+            "hint2": "0–4 abrunden, 5–9 aufrunden.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v18-1-1"
+          },
+          {
+            "id": "zahlen-059",
+            "theme": "zahlen",
+            "difficulty": "mittel",
+            "prompt": "Berechne unter Beachtung von Punkt-vor-Strich: 4 · 6 + 15.",
+            "answer": "39",
+            "solution": "Zuerst 4·6=24, dann +15=39.",
+            "hint1": "Multipliziere zuerst.",
+            "hint2": "Punktrechnung vor Strichrechnung.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v18-1-2"
+          },
+          {
+            "id": "zahlen-052",
+            "theme": "zahlen",
+            "difficulty": "mittel",
+            "prompt": "Berechne unter Beachtung von Punkt-vor-Strich: 3 · 3 + 2.",
+            "answer": "11",
+            "solution": "Zuerst 3·3=9, dann +2=11.",
+            "hint1": "Multipliziere zuerst.",
+            "hint2": "Punktrechnung vor Strichrechnung.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v18-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-072",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Das Deutschland-Ticket kostet 2026 monatlich 63 €. Wie viel kosten 12 Monate insgesamt?",
+            "answer": "756",
+            "solution": "12·63 € = 756 €.",
+            "hint1": "Multipliziere Monatszahl und Monatspreis.",
+            "hint2": "63 € pro Monat.",
+            "choices": [],
+            "type": "input",
+            "source": "Deutsche Bahn, Deutschland-Ticket 2026: 63 € pro Monat",
+            "unit": "€",
+            "tolerance": 1e-06,
+            "examId": "p2v18-2-1"
+          },
+          {
+            "id": "prozent-085",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Haushalt verbraucht in einem Monat 450 kWh Strom. Rechne mit 40,55 ct pro kWh. Wie hoch sind die reinen Verbrauchskosten?",
+            "answer": "182,48",
+            "solution": "40,55 ct = 0,4055 €. 450·0,4055 €=182,48 €.",
+            "hint1": "Wandle Cent in Euro um.",
+            "hint2": "40,55 ct = 0,4055 €.",
+            "choices": [],
+            "type": "input",
+            "source": "Destatis, durchschnittlicher Haushaltsstrompreis 2. Halbjahr 2025: 40,55 ct/kWh",
+            "unit": "€",
+            "tolerance": 0.02,
+            "examId": "p2v18-2-2"
+          },
+          {
+            "id": "prozent-059",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "Ein Sneaker kostet 80 €. Im Angebot gibt es 10 % Rabatt. Wie hoch ist der neue Preis?",
+            "answer": "72,00",
+            "solution": "Rabatt: 80·10/100=8,00 €. Neuer Preis: 80−8,00=72,00 €.",
+            "hint1": "Berechne den Rabattbetrag.",
+            "hint2": "Ziehe den Rabatt vom ursprünglichen Preis ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v18-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "terme",
+        "items": [
+          {
+            "id": "terme-036",
+            "theme": "terme",
+            "difficulty": "mittel",
+            "prompt": "Löse die Gleichung 2x + 12 = 48.",
+            "answer": "18",
+            "solution": "Zuerst −12: 2x=36. Dann durch 2: x=18.",
+            "hint1": "Bringe zuerst den konstanten Term auf die andere Seite.",
+            "hint2": "Danach durch den Faktor vor x teilen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v18-3-1"
+          },
+          {
+            "id": "terme-091",
+            "theme": "terme",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Verleih verlangt 1 € Startgebühr und 4 € pro Stunde. Die Rechnung beträgt 29 €. Wie viele Stunden wurde ausgeliehen?",
+            "answer": "7",
+            "solution": "1+4x=29 → 4x=28 → x=7.",
+            "hint1": "Stelle Startgebühr + Stundenpreis·x = Gesamtpreis auf.",
+            "hint2": "Ziehe zuerst die Startgebühr ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "h",
+            "tolerance": 1e-06,
+            "examId": "p2v18-3-2"
+          },
+          {
+            "id": "terme-051",
+            "theme": "terme",
+            "difficulty": "mittel",
+            "prompt": "Löse 3·(x + 6) = 30.",
+            "answer": "4",
+            "solution": "Durch 3: x+6=10. Dann −6: x=4.",
+            "hint1": "Beseitige zuerst den Faktor vor der Klammer.",
+            "hint2": "Teile beide Seiten durch 3.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v18-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-19",
+    "title": "Teil 2 – Variante 19",
+    "context": "Trainingsplan",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: Trainingsplan",
+        "theme": "daten",
+        "items": [
+          {
+            "id": "daten-060",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "In einer Box liegen 20 Lose, davon 5 Gewinne. Wie groß ist die Gewinnwahrscheinlichkeit in Prozent?",
+            "answer": "25,0",
+            "solution": "P=5/20=0,250=25,0%.",
+            "hint1": "Günstige Ergebnisse durch alle Ergebnisse.",
+            "hint2": "Dann in Prozent umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v19-1-1"
+          },
+          {
+            "id": "daten-066",
+            "theme": "daten",
+            "difficulty": "mittel",
+            "prompt": "In einer Box liegen 40 Lose, davon 38 Gewinne. Wie groß ist die Gewinnwahrscheinlichkeit in Prozent?",
+            "answer": "95,0",
+            "solution": "P=38/40=0,950=95,0%.",
+            "hint1": "Günstige Ergebnisse durch alle Ergebnisse.",
+            "hint2": "Dann in Prozent umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "%",
+            "tolerance": 0.11,
+            "examId": "p2v19-1-2"
+          },
+          {
+            "id": "daten-082",
+            "theme": "daten",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Foto wird in 16 gleich große Felder geteilt. In einem typischen Feld werden etwa 17 Objekte gezählt. Schätze die Gesamtzahl.",
+            "answer": "272",
+            "solution": "Rastermethode: 16 Felder · ca. 17 Objekte/Feld = ca. 272 Objekte.",
+            "hint1": "Nutze die Rastermethode.",
+            "hint2": "Typische Anzahl pro Feld mal Zahl der Felder.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v19-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "funktionen",
+        "items": [
+          {
+            "id": "funktionen-041",
+            "theme": "funktionen",
+            "difficulty": "mittel",
+            "prompt": "Eine Gerade geht durch A(0|-2) und B(3|7). Bestimme die Steigung m.",
+            "answer": "3",
+            "solution": "m=(y₂−y₁)/(x₂−x₁)=(7−-2)/(3−0)=3.",
+            "hint1": "Änderung in y durch Änderung in x.",
+            "hint2": "m = Δy / Δx.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 0.001,
+            "examId": "p2v19-2-1"
+          },
+          {
+            "id": "funktionen-052",
+            "theme": "funktionen",
+            "difficulty": "mittel",
+            "prompt": "Ein Leihdienst berechnet 1,00 € Startgebühr und 0,50 € pro Minute. Wie viel kosten 25 Minuten?",
+            "answer": "13,50",
+            "solution": "Kosten y=0,50·25+1,00=13,50 €.",
+            "hint1": "Lineares Modell: variable Kosten + Startgebühr.",
+            "hint2": "Minutenpreis·Minuten + Startgebühr.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v19-2-2"
+          },
+          {
+            "id": "funktionen-052",
+            "theme": "funktionen",
+            "difficulty": "mittel",
+            "prompt": "Ein Leihdienst berechnet 1,00 € Startgebühr und 0,50 € pro Minute. Wie viel kosten 25 Minuten?",
+            "answer": "13,50",
+            "solution": "Kosten y=0,50·25+1,00=13,50 €.",
+            "hint1": "Lineares Modell: variable Kosten + Startgebühr.",
+            "hint2": "Minutenpreis·Minuten + Startgebühr.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v19-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "terme",
+        "items": [
+          {
+            "id": "terme-076",
+            "theme": "terme",
+            "difficulty": "mittel",
+            "prompt": "Multipliziere aus und berechne: 3·(2+6).",
+            "answer": "24",
+            "solution": "3·2+3·6=6+18=24.",
+            "hint1": "Distributivgesetz.",
+            "hint2": "Multipliziere 3 mit beiden Summanden.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v19-3-1"
+          },
+          {
+            "id": "terme-073",
+            "theme": "terme",
+            "difficulty": "mittel",
+            "prompt": "Multipliziere aus und berechne: 3·(7+2).",
+            "answer": "27",
+            "solution": "3·7+3·2=21+6=27.",
+            "hint1": "Distributivgesetz.",
+            "hint2": "Multipliziere 3 mit beiden Summanden.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v19-3-2"
+          },
+          {
+            "id": "terme-088",
+            "theme": "terme",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Mira ist x Jahre alt. Ihr Bruder ist 2 Jahre älter. Zusammen sind sie 34 Jahre alt. Wie alt ist Mira?",
+            "answer": "16",
+            "solution": "x+(x+2)=34 → 2x+2=34 → 2x=32 → x=16.",
+            "hint1": "Stelle eine Gleichung mit x auf.",
+            "hint2": "Mira: x, Bruder: x+2.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": null,
+            "tolerance": 1e-06,
+            "examId": "p2v19-3-3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "P2-20",
+    "title": "Teil 2 – Variante 20",
+    "context": "3D-Druck",
+    "blocks": [
+      {
+        "title": "Aufgabe 1: 3D-Druck",
+        "theme": "koerper",
+        "items": [
+          {
+            "id": "koerper-100",
+            "theme": "koerper",
+            "difficulty": "mittel",
+            "prompt": "40 kleine Würfel mit Kantenlänge 5 cm werden ohne Lücken zu einem Körper zusammengesetzt. Wie groß ist das Gesamtvolumen?",
+            "answer": "5000",
+            "solution": "Ein Würfel: 5³=125 cm³. 40 Würfel: 40·125=5000 cm³.",
+            "hint1": "Volumen eines kleinen Würfels mal Anzahl.",
+            "hint2": "a³·Anzahl.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm³",
+            "tolerance": 1e-06,
+            "examId": "p2v20-1-1"
+          },
+          {
+            "id": "koerper-100",
+            "theme": "koerper",
+            "difficulty": "mittel",
+            "prompt": "40 kleine Würfel mit Kantenlänge 5 cm werden ohne Lücken zu einem Körper zusammengesetzt. Wie groß ist das Gesamtvolumen?",
+            "answer": "5000",
+            "solution": "Ein Würfel: 5³=125 cm³. 40 Würfel: 40·125=5000 cm³.",
+            "hint1": "Volumen eines kleinen Würfels mal Anzahl.",
+            "hint2": "a³·Anzahl.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm³",
+            "tolerance": 1e-06,
+            "examId": "p2v20-1-2"
+          },
+          {
+            "id": "koerper-043",
+            "theme": "koerper",
+            "difficulty": "mittel",
+            "prompt": "Ein Zylinder hat Radius 2 cm und Höhe 12 cm. Berechne das Volumen. Runde auf zwei Nachkommastellen.",
+            "answer": "150,80",
+            "solution": "V=π·r²·h=π·2²·12≈150,80 cm³.",
+            "hint1": "Grundfläche Kreis mal Höhe.",
+            "hint2": "V=πr²h.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm³",
+            "tolerance": 0.05,
+            "examId": "p2v20-1-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 2",
+        "theme": "geometrie",
+        "items": [
+          {
+            "id": "geometrie-073",
+            "theme": "geometrie",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Auf einer Zeichnung im Maßstab 1:200 ist eine Strecke 6 cm lang. Berechne die reale Länge in Metern.",
+            "answer": "12",
+            "solution": "6·200=1200 cm=12 m.",
+            "hint1": "Maßstab bedeutet: Zeichnung·Maßstabszahl.",
+            "hint2": "Danach cm in m umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "m",
+            "tolerance": 0.01,
+            "examId": "p2v20-2-1"
+          },
+          {
+            "id": "geometrie-080",
+            "theme": "geometrie",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Auf einer Zeichnung im Maßstab 1:100 ist eine Strecke 3 cm lang. Berechne die reale Länge in Metern.",
+            "answer": "3",
+            "solution": "3·100=300 cm=3 m.",
+            "hint1": "Maßstab bedeutet: Zeichnung·Maßstabszahl.",
+            "hint2": "Danach cm in m umrechnen.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "m",
+            "tolerance": 0.01,
+            "examId": "p2v20-2-2"
+          },
+          {
+            "id": "geometrie-060",
+            "theme": "geometrie",
+            "difficulty": "mittel",
+            "prompt": "Ein Kreis hat Radius 2 cm. Berechne seinen Flächeninhalt. Runde auf zwei Nachkommastellen.",
+            "answer": "12,57",
+            "solution": "A=π·r²=π·2²≈12,57 cm².",
+            "hint1": "A=π·r².",
+            "hint2": "Setze den Radius ein.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "cm²",
+            "tolerance": 0.03,
+            "examId": "p2v20-2-3"
+          }
+        ]
+      },
+      {
+        "title": "Aufgabe 3",
+        "theme": "prozent",
+        "items": [
+          {
+            "id": "prozent-077",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Das Deutschland-Ticket kostet 2026 monatlich 63 €. Wie viel kosten 10 Monate insgesamt?",
+            "answer": "630",
+            "solution": "10·63 € = 630 €.",
+            "hint1": "Multipliziere Monatszahl und Monatspreis.",
+            "hint2": "63 € pro Monat.",
+            "choices": [],
+            "type": "input",
+            "source": "Deutsche Bahn, Deutschland-Ticket 2026: 63 € pro Monat",
+            "unit": "€",
+            "tolerance": 1e-06,
+            "examId": "p2v20-3-1"
+          },
+          {
+            "id": "prozent-081",
+            "theme": "prozent",
+            "difficulty": "anspruchsvoll",
+            "prompt": "Ein Haushalt verbraucht in einem Monat 300 kWh Strom. Rechne mit 40,55 ct pro kWh. Wie hoch sind die reinen Verbrauchskosten?",
+            "answer": "121,65",
+            "solution": "40,55 ct = 0,4055 €. 300·0,4055 €=121,65 €.",
+            "hint1": "Wandle Cent in Euro um.",
+            "hint2": "40,55 ct = 0,4055 €.",
+            "choices": [],
+            "type": "input",
+            "source": "Destatis, durchschnittlicher Haushaltsstrompreis 2. Halbjahr 2025: 40,55 ct/kWh",
+            "unit": "€",
+            "tolerance": 0.02,
+            "examId": "p2v20-3-2"
+          },
+          {
+            "id": "prozent-068",
+            "theme": "prozent",
+            "difficulty": "mittel",
+            "prompt": "Ein Rucksack kostet 40 €. Im Angebot gibt es 25 % Rabatt. Wie hoch ist der neue Preis?",
+            "answer": "30,00",
+            "solution": "Rabatt: 40·25/100=10,00 €. Neuer Preis: 40−10,00=30,00 €.",
+            "hint1": "Berechne den Rabattbetrag.",
+            "hint2": "Ziehe den Rabatt vom ursprünglichen Preis ab.",
+            "choices": [],
+            "type": "input",
+            "source": null,
+            "unit": "€",
+            "tolerance": 0.01,
+            "examId": "p2v20-3-3"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "left": "Grundwert",
+    "right": "Die gesamte Bezugsgröße; entspricht 100 %."
+  },
+  {
+    "left": "Prozentwert",
+    "right": "Der Anteil des Grundwertes, der zu einem Prozentsatz gehört."
+  },
+  {
+    "left": "Prozentsatz",
+    "right": "Gibt an, wie viele Hundertstel des Grundwertes gemeint sind."
+  },
+  {
+    "left": "Rabatt",
+    "right": "Preisnachlass, meist in Prozent angegeben."
+  },
+  {
+    "left": "Zinsen",
+    "right": "Entgelt für geliehenes oder angelegtes Geld."
+  },
+  {
+    "left": "Kapital",
+    "right": "Geldbetrag, auf den Zinsen berechnet werden."
+  },
+  {
+    "left": "Zinssatz",
+    "right": "Prozentsatz, mit dem Zinsen berechnet werden."
+  },
+  {
+    "left": "Zinsfaktor",
+    "right": "Faktor q für eine prozentuale Zu- oder Abnahme."
+  },
+  {
+    "left": "Mehrwertsteuer",
+    "right": "Prozentualer Steueranteil auf Waren und Dienstleistungen."
+  },
+  {
+    "left": "relative Änderung",
+    "right": "Änderung im Verhältnis zum Ausgangswert, häufig in Prozent."
+  },
+  {
+    "left": "100 %",
+    "right": "Der gesamte Grundwert."
+  },
+  {
+    "left": "50 %",
+    "right": "Die Hälfte."
+  },
+  {
+    "left": "25 %",
+    "right": "Ein Viertel."
+  },
+  {
+    "left": "10 %",
+    "right": "Ein Zehntel."
+  },
+  {
+    "left": "1 %",
+    "right": "Ein Hundertstel."
+  },
+  {
+    "left": "Preisnachlass",
+    "right": "Betrag, der vom ursprünglichen Preis abgezogen wird."
+  },
+  {
+    "left": "Preissteigerung",
+    "right": "Erhöhung eines Ausgangspreises."
+  },
+  {
+    "left": "Brutto",
+    "right": "Preis oder Betrag inklusive Steuer."
+  },
+  {
+    "left": "Netto",
+    "right": "Preis oder Betrag ohne Steuer."
+  },
+  {
+    "left": "Zinseszins",
+    "right": "Zinsen, die auch auf bereits gutgeschriebene Zinsen berechnet werden."
+  }
+]

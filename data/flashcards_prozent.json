@@ -1,0 +1,102 @@
+[
+  {
+    "id": "prozent-c1",
+    "term": "Grundwert",
+    "definition": "Die gesamte Bezugsgröße; entspricht 100 %."
+  },
+  {
+    "id": "prozent-c2",
+    "term": "Prozentwert",
+    "definition": "Der Anteil des Grundwertes, der zu einem Prozentsatz gehört."
+  },
+  {
+    "id": "prozent-c3",
+    "term": "Prozentsatz",
+    "definition": "Gibt an, wie viele Hundertstel des Grundwertes gemeint sind."
+  },
+  {
+    "id": "prozent-c4",
+    "term": "Rabatt",
+    "definition": "Preisnachlass, meist in Prozent angegeben."
+  },
+  {
+    "id": "prozent-c5",
+    "term": "Zinsen",
+    "definition": "Entgelt für geliehenes oder angelegtes Geld."
+  },
+  {
+    "id": "prozent-c6",
+    "term": "Kapital",
+    "definition": "Geldbetrag, auf den Zinsen berechnet werden."
+  },
+  {
+    "id": "prozent-c7",
+    "term": "Zinssatz",
+    "definition": "Prozentsatz, mit dem Zinsen berechnet werden."
+  },
+  {
+    "id": "prozent-c8",
+    "term": "Zinsfaktor",
+    "definition": "Faktor q für eine prozentuale Zu- oder Abnahme."
+  },
+  {
+    "id": "prozent-c9",
+    "term": "Mehrwertsteuer",
+    "definition": "Prozentualer Steueranteil auf Waren und Dienstleistungen."
+  },
+  {
+    "id": "prozent-c10",
+    "term": "relative Änderung",
+    "definition": "Änderung im Verhältnis zum Ausgangswert, häufig in Prozent."
+  },
+  {
+    "id": "prozent-c11",
+    "term": "100 %",
+    "definition": "Der gesamte Grundwert."
+  },
+  {
+    "id": "prozent-c12",
+    "term": "50 %",
+    "definition": "Die Hälfte."
+  },
+  {
+    "id": "prozent-c13",
+    "term": "25 %",
+    "definition": "Ein Viertel."
+  },
+  {
+    "id": "prozent-c14",
+    "term": "10 %",
+    "definition": "Ein Zehntel."
+  },
+  {
+    "id": "prozent-c15",
+    "term": "1 %",
+    "definition": "Ein Hundertstel."
+  },
+  {
+    "id": "prozent-c16",
+    "term": "Preisnachlass",
+    "definition": "Betrag, der vom ursprünglichen Preis abgezogen wird."
+  },
+  {
+    "id": "prozent-c17",
+    "term": "Preissteigerung",
+    "definition": "Erhöhung eines Ausgangspreises."
+  },
+  {
+    "id": "prozent-c18",
+    "term": "Brutto",
+    "definition": "Preis oder Betrag inklusive Steuer."
+  },
+  {
+    "id": "prozent-c19",
+    "term": "Netto",
+    "definition": "Preis oder Betrag ohne Steuer."
+  },
+  {
+    "id": "prozent-c20",
+    "term": "Zinseszins",
+    "definition": "Zinsen, die auch auf bereits gutgeschriebene Zinsen berechnet werden."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "left": "Funktion",
+    "right": "Eindeutige Zuordnung: Jedem x-Wert wird genau ein y-Wert zugeordnet."
+  },
+  {
+    "left": "Wertetabelle",
+    "right": "Tabelle mit zusammengehörigen x- und y-Werten."
+  },
+  {
+    "left": "Graph",
+    "right": "Grafische Darstellung einer Funktion im Koordinatensystem."
+  },
+  {
+    "left": "lineare Funktion",
+    "right": "Funktion mit einer Geraden als Graph, meist y = m·x + n."
+  },
+  {
+    "left": "Steigung",
+    "right": "Gibt an, um wie viel y sich ändert, wenn x um 1 steigt."
+  },
+  {
+    "left": "y-Achsenabschnitt",
+    "right": "y-Wert, an dem eine Gerade die y-Achse schneidet."
+  },
+  {
+    "left": "proportionale Zuordnung",
+    "right": "Zuordnung mit konstantem Quotienten y/x und Graph durch den Ursprung."
+  },
+  {
+    "left": "antiproportionale Zuordnung",
+    "right": "Zuordnung mit konstantem Produkt x·y."
+  },
+  {
+    "left": "Wachstumsfaktor",
+    "right": "Faktor q, mit dem ein Wert in jedem Schritt multipliziert wird."
+  },
+  {
+    "left": "exponentielles Wachstum",
+    "right": "Wachstum, bei dem in gleichen Zeitabständen mit demselben Faktor multipliziert wird."
+  },
+  {
+    "left": "Nullstelle",
+    "right": "x-Wert, bei dem y=0 ist."
+  },
+  {
+    "left": "Koordinatensystem",
+    "right": "System aus x- und y-Achse zur Darstellung von Punkten und Graphen."
+  },
+  {
+    "left": "Punktkoordinate",
+    "right": "Schreibweise (x|y) für die Lage eines Punktes."
+  },
+  {
+    "left": "Ursprung",
+    "right": "Punkt (0|0)."
+  },
+  {
+    "left": "steigende Gerade",
+    "right": "Gerade mit positiver Steigung."
+  },
+  {
+    "left": "fallende Gerade",
+    "right": "Gerade mit negativer Steigung."
+  },
+  {
+    "left": "konstante Funktion",
+    "right": "Funktion mit waagerechtem Graphen."
+  },
+  {
+    "left": "Startwert",
+    "right": "Wert zu Beginn eines Wachstumsprozesses."
+  },
+  {
+    "left": "prozentuale Zunahme",
+    "right": "Wachstum um einen festen Prozentsatz je Schritt."
+  },
+  {
+    "left": "prozentuale Abnahme",
+    "right": "Abnahme um einen festen Prozentsatz je Schritt."
+  }
+]

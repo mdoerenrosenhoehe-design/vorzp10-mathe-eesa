@@ -1,0 +1,28 @@
+{
+  "generatedTasks": 800,
+  "tasksPerTheme": 100,
+  "examPart1Variants": 20,
+  "examPart2Variants": 20,
+  "sources": [
+    {
+      "label": "ZP10 NRW Vorgaben Mathematik EESA 2027",
+      "url": "https://www.standardsicherung.schulministerium.nrw.de/system/files/media/document/file/vorgaben_m27_eesa.pdf"
+    },
+    {
+      "label": "ZP10 NRW Beispielaufgaben Teil 1 ab 2023",
+      "url": "https://www.standardsicherung.schulministerium.nrw.de/system/files/media/document/file/zp10_m_bsp_pt1_eesa.pdf"
+    },
+    {
+      "label": "ZP10 NRW FAQ Bearbeitungszeiten",
+      "url": "https://www.standardsicherung.schulministerium.nrw.de/zp10/fragen-und-antworten/faq_0300.html"
+    },
+    {
+      "label": "Deutsche Bahn – Deutschland-Ticket 2026",
+      "url": "https://www.bahn.de/faq/gk/angebot/zeitkarten/deutschland-ticket"
+    },
+    {
+      "label": "Destatis – Strompreise Haushalte 2. Halbjahr 2025",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/03/PD26_111_61243.html"
+    }
+  ]
+}

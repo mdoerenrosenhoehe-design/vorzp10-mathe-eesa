@@ -1,0 +1,102 @@
+[
+  {
+    "id": "groessen-c1",
+    "term": "Länge",
+    "definition": "Größe zur Beschreibung einer Strecke, z. B. in m oder km."
+  },
+  {
+    "id": "groessen-c2",
+    "term": "Fläche",
+    "definition": "Größe einer zweidimensionalen Figur, z. B. in m²."
+  },
+  {
+    "id": "groessen-c3",
+    "term": "Volumen",
+    "definition": "Rauminhalt eines Körpers, z. B. in cm³ oder l."
+  },
+  {
+    "id": "groessen-c4",
+    "term": "Masse",
+    "definition": "Größe für die Menge an Materie, z. B. in g oder kg."
+  },
+  {
+    "id": "groessen-c5",
+    "term": "Zeitspanne",
+    "definition": "Dauer zwischen zwei Zeitpunkten."
+  },
+  {
+    "id": "groessen-c6",
+    "term": "Maßstab",
+    "definition": "Verhältnis von Länge in einer Darstellung zur Länge in Wirklichkeit."
+  },
+  {
+    "id": "groessen-c7",
+    "term": "Quadratmeter",
+    "definition": "Flächeneinheit; 1 m² = 100 dm²."
+  },
+  {
+    "id": "groessen-c8",
+    "term": "Kubikdezimeter",
+    "definition": "Volumeneinheit; 1 dm³ = 1 l."
+  },
+  {
+    "id": "groessen-c9",
+    "term": "Milliliter",
+    "definition": "Volumeneinheit; 1 ml = 1 cm³."
+  },
+  {
+    "id": "groessen-c10",
+    "term": "Tonne",
+    "definition": "Masseneinheit; 1 t = 1000 kg."
+  },
+  {
+    "id": "groessen-c11",
+    "term": "Sekunde",
+    "definition": "Basiseinheit der Zeit."
+  },
+  {
+    "id": "groessen-c12",
+    "term": "Minute",
+    "definition": "60 Sekunden."
+  },
+  {
+    "id": "groessen-c13",
+    "term": "Stunde",
+    "definition": "60 Minuten."
+  },
+  {
+    "id": "groessen-c14",
+    "term": "Kilometer",
+    "definition": "1000 Meter."
+  },
+  {
+    "id": "groessen-c15",
+    "term": "Dezimeter",
+    "definition": "Ein Zehntel Meter."
+  },
+  {
+    "id": "groessen-c16",
+    "term": "Zentimeter",
+    "definition": "Ein Hundertstel Meter."
+  },
+  {
+    "id": "groessen-c17",
+    "term": "Gramm",
+    "definition": "Ein Tausendstel Kilogramm."
+  },
+  {
+    "id": "groessen-c18",
+    "term": "Liter",
+    "definition": "Volumeneinheit; 1 l = 1 dm³."
+  },
+  {
+    "id": "groessen-c19",
+    "term": "Quadratzentimeter",
+    "definition": "Flächeneinheit; 100 cm² = 1 dm²."
+  },
+  {
+    "id": "groessen-c20",
+    "term": "Kubikzentimeter",
+    "definition": "Volumeneinheit; 1000 cm³ = 1 dm³."
+  }
+]

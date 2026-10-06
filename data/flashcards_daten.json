@@ -1,0 +1,102 @@
+[
+  {
+    "id": "daten-c1",
+    "term": "arithmetisches Mittel",
+    "definition": "Summe aller Werte geteilt durch die Anzahl der Werte."
+  },
+  {
+    "id": "daten-c2",
+    "term": "Median",
+    "definition": "Mittlerer Wert einer der Größe nach geordneten Datenliste."
+  },
+  {
+    "id": "daten-c3",
+    "term": "Spannweite",
+    "definition": "Differenz aus größtem und kleinstem Wert."
+  },
+  {
+    "id": "daten-c4",
+    "term": "Säulendiagramm",
+    "definition": "Diagramm mit senkrechten Säulen zur Darstellung von Werten."
+  },
+  {
+    "id": "daten-c5",
+    "term": "Kreisdiagramm",
+    "definition": "Diagramm zur Darstellung von Anteilen eines Ganzen."
+  },
+  {
+    "id": "daten-c6",
+    "term": "absolute Häufigkeit",
+    "definition": "Anzahl, wie oft ein Ereignis oder Wert vorkommt."
+  },
+  {
+    "id": "daten-c7",
+    "term": "relative Häufigkeit",
+    "definition": "Anteil einer Häufigkeit an der Gesamtzahl."
+  },
+  {
+    "id": "daten-c8",
+    "term": "Wahrscheinlichkeit",
+    "definition": "Zahl zwischen 0 und 1 bzw. 0 % und 100 %, die die Chance eines Ereignisses beschreibt."
+  },
+  {
+    "id": "daten-c9",
+    "term": "Laplace-Experiment",
+    "definition": "Zufallsexperiment, bei dem alle Elementarereignisse gleich wahrscheinlich sind."
+  },
+  {
+    "id": "daten-c10",
+    "term": "Schätzen",
+    "definition": "Näherungsweises Bestimmen eines Wertes mit begründeter Vorgehensweise."
+  },
+  {
+    "id": "daten-c11",
+    "term": "Minimum",
+    "definition": "Kleinster Wert einer Datenmenge."
+  },
+  {
+    "id": "daten-c12",
+    "term": "Maximum",
+    "definition": "Größter Wert einer Datenmenge."
+  },
+  {
+    "id": "daten-c13",
+    "term": "Stichprobe",
+    "definition": "Teilmenge, die untersucht wird."
+  },
+  {
+    "id": "daten-c14",
+    "term": "Grundgesamtheit",
+    "definition": "Gesamtheit aller interessierenden Objekte."
+  },
+  {
+    "id": "daten-c15",
+    "term": "Zufallsexperiment",
+    "definition": "Vorgang mit nicht sicher vorhersagbarem Ergebnis."
+  },
+  {
+    "id": "daten-c16",
+    "term": "Ergebnis",
+    "definition": "Möglicher Ausgang eines Zufallsexperiments."
+  },
+  {
+    "id": "daten-c17",
+    "term": "Ereignis",
+    "definition": "Menge von Ergebnissen eines Zufallsexperiments."
+  },
+  {
+    "id": "daten-c18",
+    "term": "Baumdiagramm",
+    "definition": "Darstellung mehrstufiger Zufallsexperimente mit Ästen."
+  },
+  {
+    "id": "daten-c19",
+    "term": "Balkendiagramm",
+    "definition": "Diagramm mit waagerechten Balken."
+  },
+  {
+    "id": "daten-c20",
+    "term": "Piktogramm",
+    "definition": "Diagramm, das Mengen durch wiederholte Symbole darstellt."
+  }
+]

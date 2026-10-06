@@ -1,0 +1,82 @@
+[
+  {
+    "left": "Grundfläche",
+    "right": "Fläche, auf der ein Körper steht bzw. die bei Prisma/Zylinder parallel verschoben wird."
+  },
+  {
+    "left": "Mantelfläche",
+    "right": "Seitenfläche eines Körpers ohne Grund- und Deckfläche."
+  },
+  {
+    "left": "Oberfläche",
+    "right": "Summe aller Begrenzungsflächen eines Körpers."
+  },
+  {
+    "left": "Volumen",
+    "right": "Rauminhalt eines Körpers."
+  },
+  {
+    "left": "Prisma",
+    "right": "Körper mit zwei kongruenten parallelen Grundflächen."
+  },
+  {
+    "left": "Zylinder",
+    "right": "Körper mit zwei parallelen Kreisflächen als Grund- und Deckfläche."
+  },
+  {
+    "left": "Pyramide",
+    "right": "Körper mit einer Grundfläche und dreieckigen Seitenflächen, die sich in einer Spitze treffen."
+  },
+  {
+    "left": "Kegel",
+    "right": "Körper mit Kreis als Grundfläche und einer Spitze."
+  },
+  {
+    "left": "Kugel",
+    "right": "Körper, dessen Oberflächenpunkte alle denselben Abstand vom Mittelpunkt haben."
+  },
+  {
+    "left": "Kantenlänge",
+    "right": "Länge einer Kante eines Körpers."
+  },
+  {
+    "left": "Würfel",
+    "right": "Quader mit sechs kongruenten quadratischen Flächen."
+  },
+  {
+    "left": "Quader",
+    "right": "Körper mit sechs rechteckigen Flächen."
+  },
+  {
+    "left": "Netz",
+    "right": "Ebene Darstellung aller Flächen eines Körpers zum Zusammenfalten."
+  },
+  {
+    "left": "Körperhöhe",
+    "right": "Senkrechter Abstand zwischen Grund- und Deckfläche bzw. Grundfläche und Spitze."
+  },
+  {
+    "left": "Mantellinie",
+    "right": "Schräge Seitenlinie eines Kegels."
+  },
+  {
+    "left": "Raumdiagonale",
+    "right": "Verbindung zweier gegenüberliegender Ecken im Raum."
+  },
+  {
+    "left": "Deckfläche",
+    "right": "Zur Grundfläche parallele kongruente Fläche bei Prisma oder Zylinder."
+  },
+  {
+    "left": "Kubikmeter",
+    "right": "Volumeneinheit; 1 m³ = 1000 dm³."
+  },
+  {
+    "left": "Oberflächeninhalt",
+    "right": "Flächeninhalt der gesamten Oberfläche eines Körpers."
+  },
+  {
+    "left": "Hohlkörper",
+    "right": "Körper mit einem inneren, leeren Raum."
+  }
+]

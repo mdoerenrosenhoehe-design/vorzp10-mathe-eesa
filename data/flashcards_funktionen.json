@@ -1,0 +1,102 @@
+[
+  {
+    "id": "funktionen-c1",
+    "term": "Funktion",
+    "definition": "Eindeutige Zuordnung: Jedem x-Wert wird genau ein y-Wert zugeordnet."
+  },
+  {
+    "id": "funktionen-c2",
+    "term": "Wertetabelle",
+    "definition": "Tabelle mit zusammengehörigen x- und y-Werten."
+  },
+  {
+    "id": "funktionen-c3",
+    "term": "Graph",
+    "definition": "Grafische Darstellung einer Funktion im Koordinatensystem."
+  },
+  {
+    "id": "funktionen-c4",
+    "term": "lineare Funktion",
+    "definition": "Funktion mit einer Geraden als Graph, meist y = m·x + n."
+  },
+  {
+    "id": "funktionen-c5",
+    "term": "Steigung",
+    "definition": "Gibt an, um wie viel y sich ändert, wenn x um 1 steigt."
+  },
+  {
+    "id": "funktionen-c6",
+    "term": "y-Achsenabschnitt",
+    "definition": "y-Wert, an dem eine Gerade die y-Achse schneidet."
+  },
+  {
+    "id": "funktionen-c7",
+    "term": "proportionale Zuordnung",
+    "definition": "Zuordnung mit konstantem Quotienten y/x und Graph durch den Ursprung."
+  },
+  {
+    "id": "funktionen-c8",
+    "term": "antiproportionale Zuordnung",
+    "definition": "Zuordnung mit konstantem Produkt x·y."
+  },
+  {
+    "id": "funktionen-c9",
+    "term": "Wachstumsfaktor",
+    "definition": "Faktor q, mit dem ein Wert in jedem Schritt multipliziert wird."
+  },
+  {
+    "id": "funktionen-c10",
+    "term": "exponentielles Wachstum",
+    "definition": "Wachstum, bei dem in gleichen Zeitabständen mit demselben Faktor multipliziert wird."
+  },
+  {
+    "id": "funktionen-c11",
+    "term": "Nullstelle",
+    "definition": "x-Wert, bei dem y=0 ist."
+  },
+  {
+    "id": "funktionen-c12",
+    "term": "Koordinatensystem",
+    "definition": "System aus x- und y-Achse zur Darstellung von Punkten und Graphen."
+  },
+  {
+    "id": "funktionen-c13",
+    "term": "Punktkoordinate",
+    "definition": "Schreibweise (x|y) für die Lage eines Punktes."
+  },
+  {
+    "id": "funktionen-c14",
+    "term": "Ursprung",
+    "definition": "Punkt (0|0)."
+  },
+  {
+    "id": "funktionen-c15",
+    "term": "steigende Gerade",
+    "definition": "Gerade mit positiver Steigung."
+  },
+  {
+    "id": "funktionen-c16",
+    "term": "fallende Gerade",
+    "definition": "Gerade mit negativer Steigung."
+  },
+  {
+    "id": "funktionen-c17",
+    "term": "konstante Funktion",
+    "definition": "Funktion mit waagerechtem Graphen."
+  },
+  {
+    "id": "funktionen-c18",
+    "term": "Startwert",
+    "definition": "Wert zu Beginn eines Wachstumsprozesses."
+  },
+  {
+    "id": "funktionen-c19",
+    "term": "prozentuale Zunahme",
+    "definition": "Wachstum um einen festen Prozentsatz je Schritt."
+  },
+  {
+    "id": "funktionen-c20",
+    "term": "prozentuale Abnahme",
+    "definition": "Abnahme um einen festen Prozentsatz je Schritt."
+  }
+]

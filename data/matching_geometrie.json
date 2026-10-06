@@ -1,0 +1,82 @@
+[
+  {
+    "left": "Umfang",
+    "right": "Länge des Randes einer ebenen Figur."
+  },
+  {
+    "left": "Flächeninhalt",
+    "right": "Größe der Fläche einer ebenen Figur."
+  },
+  {
+    "left": "Radius",
+    "right": "Strecke vom Mittelpunkt eines Kreises zum Rand."
+  },
+  {
+    "left": "Durchmesser",
+    "right": "Doppelte Länge des Radius; verläuft durch den Kreismittelpunkt."
+  },
+  {
+    "left": "Symmetrieachse",
+    "right": "Gerade, an der eine Figur gespiegelt werden kann und gleich aussieht."
+  },
+  {
+    "left": "rechter Winkel",
+    "right": "Winkel mit 90°."
+  },
+  {
+    "left": "Hypotenuse",
+    "right": "Längste Seite im rechtwinkligen Dreieck, gegenüber dem rechten Winkel."
+  },
+  {
+    "left": "Kathete",
+    "right": "Eine der beiden Seiten, die im rechtwinkligen Dreieck den rechten Winkel bilden."
+  },
+  {
+    "left": "Satz des Pythagoras",
+    "right": "Im rechtwinkligen Dreieck gilt a² + b² = c²."
+  },
+  {
+    "left": "Maßstab 1:n",
+    "right": "1 Längeneinheit in der Zeichnung entspricht n Längeneinheiten in Wirklichkeit."
+  },
+  {
+    "left": "Quadrat",
+    "right": "Viereck mit vier gleich langen Seiten und vier rechten Winkeln."
+  },
+  {
+    "left": "Rechteck",
+    "right": "Viereck mit vier rechten Winkeln."
+  },
+  {
+    "left": "Dreieck",
+    "right": "Figur mit drei Seiten."
+  },
+  {
+    "left": "Parallelogramm",
+    "right": "Viereck mit paarweise parallelen Gegenseiten."
+  },
+  {
+    "left": "Trapez",
+    "right": "Viereck mit mindestens einem Paar paralleler Seiten."
+  },
+  {
+    "left": "Kreis",
+    "right": "Menge aller Punkte mit gleichem Abstand zum Mittelpunkt."
+  },
+  {
+    "left": "Kreisbogen",
+    "right": "Teil des Kreisumfangs."
+  },
+  {
+    "left": "Kreissektor",
+    "right": "Teil einer Kreisfläche zwischen zwei Radien und einem Kreisbogen."
+  },
+  {
+    "left": "parallel",
+    "right": "Geraden, die sich nicht schneiden."
+  },
+  {
+    "left": "senkrecht",
+    "right": "Geraden, die einen rechten Winkel bilden."
+  }
+]

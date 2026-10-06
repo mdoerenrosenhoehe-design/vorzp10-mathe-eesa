@@ -1,0 +1,82 @@
+[
+  {
+    "left": "Länge",
+    "right": "Größe zur Beschreibung einer Strecke, z. B. in m oder km."
+  },
+  {
+    "left": "Fläche",
+    "right": "Größe einer zweidimensionalen Figur, z. B. in m²."
+  },
+  {
+    "left": "Volumen",
+    "right": "Rauminhalt eines Körpers, z. B. in cm³ oder l."
+  },
+  {
+    "left": "Masse",
+    "right": "Größe für die Menge an Materie, z. B. in g oder kg."
+  },
+  {
+    "left": "Zeitspanne",
+    "right": "Dauer zwischen zwei Zeitpunkten."
+  },
+  {
+    "left": "Maßstab",
+    "right": "Verhältnis von Länge in einer Darstellung zur Länge in Wirklichkeit."
+  },
+  {
+    "left": "Quadratmeter",
+    "right": "Flächeneinheit; 1 m² = 100 dm²."
+  },
+  {
+    "left": "Kubikdezimeter",
+    "right": "Volumeneinheit; 1 dm³ = 1 l."
+  },
+  {
+    "left": "Milliliter",
+    "right": "Volumeneinheit; 1 ml = 1 cm³."
+  },
+  {
+    "left": "Tonne",
+    "right": "Masseneinheit; 1 t = 1000 kg."
+  },
+  {
+    "left": "Sekunde",
+    "right": "Basiseinheit der Zeit."
+  },
+  {
+    "left": "Minute",
+    "right": "60 Sekunden."
+  },
+  {
+    "left": "Stunde",
+    "right": "60 Minuten."
+  },
+  {
+    "left": "Kilometer",
+    "right": "1000 Meter."
+  },
+  {
+    "left": "Dezimeter",
+    "right": "Ein Zehntel Meter."
+  },
+  {
+    "left": "Zentimeter",
+    "right": "Ein Hundertstel Meter."
+  },
+  {
+    "left": "Gramm",
+    "right": "Ein Tausendstel Kilogramm."
+  },
+  {
+    "left": "Liter",
+    "right": "Volumeneinheit; 1 l = 1 dm³."
+  },
+  {
+    "left": "Quadratzentimeter",
+    "right": "Flächeneinheit; 100 cm² = 1 dm²."
+  },
+  {
+    "left": "Kubikzentimeter",
+    "right": "Volumeneinheit; 1000 cm³ = 1 dm³."
+  }
+]

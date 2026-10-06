@@ -1,0 +1,102 @@
+[
+  {
+    "id": "geometrie-c1",
+    "term": "Umfang",
+    "definition": "Länge des Randes einer ebenen Figur."
+  },
+  {
+    "id": "geometrie-c2",
+    "term": "Flächeninhalt",
+    "definition": "Größe der Fläche einer ebenen Figur."
+  },
+  {
+    "id": "geometrie-c3",
+    "term": "Radius",
+    "definition": "Strecke vom Mittelpunkt eines Kreises zum Rand."
+  },
+  {
+    "id": "geometrie-c4",
+    "term": "Durchmesser",
+    "definition": "Doppelte Länge des Radius; verläuft durch den Kreismittelpunkt."
+  },
+  {
+    "id": "geometrie-c5",
+    "term": "Symmetrieachse",
+    "definition": "Gerade, an der eine Figur gespiegelt werden kann und gleich aussieht."
+  },
+  {
+    "id": "geometrie-c6",
+    "term": "rechter Winkel",
+    "definition": "Winkel mit 90°."
+  },
+  {
+    "id": "geometrie-c7",
+    "term": "Hypotenuse",
+    "definition": "Längste Seite im rechtwinkligen Dreieck, gegenüber dem rechten Winkel."
+  },
+  {
+    "id": "geometrie-c8",
+    "term": "Kathete",
+    "definition": "Eine der beiden Seiten, die im rechtwinkligen Dreieck den rechten Winkel bilden."
+  },
+  {
+    "id": "geometrie-c9",
+    "term": "Satz des Pythagoras",
+    "definition": "Im rechtwinkligen Dreieck gilt a² + b² = c²."
+  },
+  {
+    "id": "geometrie-c10",
+    "term": "Maßstab 1:n",
+    "definition": "1 Längeneinheit in der Zeichnung entspricht n Längeneinheiten in Wirklichkeit."
+  },
+  {
+    "id": "geometrie-c11",
+    "term": "Quadrat",
+    "definition": "Viereck mit vier gleich langen Seiten und vier rechten Winkeln."
+  },
+  {
+    "id": "geometrie-c12",
+    "term": "Rechteck",
+    "definition": "Viereck mit vier rechten Winkeln."
+  },
+  {
+    "id": "geometrie-c13",
+    "term": "Dreieck",
+    "definition": "Figur mit drei Seiten."
+  },
+  {
+    "id": "geometrie-c14",
+    "term": "Parallelogramm",
+    "definition": "Viereck mit paarweise parallelen Gegenseiten."
+  },
+  {
+    "id": "geometrie-c15",
+    "term": "Trapez",
+    "definition": "Viereck mit mindestens einem Paar paralleler Seiten."
+  },
+  {
+    "id": "geometrie-c16",
+    "term": "Kreis",
+    "definition": "Menge aller Punkte mit gleichem Abstand zum Mittelpunkt."
+  },
+  {
+    "id": "geometrie-c17",
+    "term": "Kreisbogen",
+    "definition": "Teil des Kreisumfangs."
+  },
+  {
+    "id": "geometrie-c18",
+    "term": "Kreissektor",
+    "definition": "Teil einer Kreisfläche zwischen zwei Radien und einem Kreisbogen."
+  },
+  {
+    "id": "geometrie-c19",
+    "term": "parallel",
+    "definition": "Geraden, die sich nicht schneiden."
+  },
+  {
+    "id": "geometrie-c20",
+    "term": "senkrecht",
+    "definition": "Geraden, die einen rechten Winkel bilden."
+  }
+]

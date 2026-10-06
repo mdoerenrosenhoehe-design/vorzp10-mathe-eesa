@@ -1,0 +1,82 @@
+[
+  {
+    "left": "arithmetisches Mittel",
+    "right": "Summe aller Werte geteilt durch die Anzahl der Werte."
+  },
+  {
+    "left": "Median",
+    "right": "Mittlerer Wert einer der Größe nach geordneten Datenliste."
+  },
+  {
+    "left": "Spannweite",
+    "right": "Differenz aus größtem und kleinstem Wert."
+  },
+  {
+    "left": "Säulendiagramm",
+    "right": "Diagramm mit senkrechten Säulen zur Darstellung von Werten."
+  },
+  {
+    "left": "Kreisdiagramm",
+    "right": "Diagramm zur Darstellung von Anteilen eines Ganzen."
+  },
+  {
+    "left": "absolute Häufigkeit",
+    "right": "Anzahl, wie oft ein Ereignis oder Wert vorkommt."
+  },
+  {
+    "left": "relative Häufigkeit",
+    "right": "Anteil einer Häufigkeit an der Gesamtzahl."
+  },
+  {
+    "left": "Wahrscheinlichkeit",
+    "right": "Zahl zwischen 0 und 1 bzw. 0 % und 100 %, die die Chance eines Ereignisses beschreibt."
+  },
+  {
+    "left": "Laplace-Experiment",
+    "right": "Zufallsexperiment, bei dem alle Elementarereignisse gleich wahrscheinlich sind."
+  },
+  {
+    "left": "Schätzen",
+    "right": "Näherungsweises Bestimmen eines Wertes mit begründeter Vorgehensweise."
+  },
+  {
+    "left": "Minimum",
+    "right": "Kleinster Wert einer Datenmenge."
+  },
+  {
+    "left": "Maximum",
+    "right": "Größter Wert einer Datenmenge."
+  },
+  {
+    "left": "Stichprobe",
+    "right": "Teilmenge, die untersucht wird."
+  },
+  {
+    "left": "Grundgesamtheit",
+    "right": "Gesamtheit aller interessierenden Objekte."
+  },
+  {
+    "left": "Zufallsexperiment",
+    "right": "Vorgang mit nicht sicher vorhersagbarem Ergebnis."
+  },
+  {
+    "left": "Ergebnis",
+    "right": "Möglicher Ausgang eines Zufallsexperiments."
+  },
+  {
+    "left": "Ereignis",
+    "right": "Menge von Ergebnissen eines Zufallsexperiments."
+  },
+  {
+    "left": "Baumdiagramm",
+    "right": "Darstellung mehrstufiger Zufallsexperimente mit Ästen."
+  },
+  {
+    "left": "Balkendiagramm",
+    "right": "Diagramm mit waagerechten Balken."
+  },
+  {
+    "left": "Piktogramm",
+    "right": "Diagramm, das Mengen durch wiederholte Symbole darstellt."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "koerper-c1",
+    "term": "Grundfläche",
+    "definition": "Fläche, auf der ein Körper steht bzw. die bei Prisma/Zylinder parallel verschoben wird."
+  },
+  {
+    "id": "koerper-c2",
+    "term": "Mantelfläche",
+    "definition": "Seitenfläche eines Körpers ohne Grund- und Deckfläche."
+  },
+  {
+    "id": "koerper-c3",
+    "term": "Oberfläche",
+    "definition": "Summe aller Begrenzungsflächen eines Körpers."
+  },
+  {
+    "id": "koerper-c4",
+    "term": "Volumen",
+    "definition": "Rauminhalt eines Körpers."
+  },
+  {
+    "id": "koerper-c5",
+    "term": "Prisma",
+    "definition": "Körper mit zwei kongruenten parallelen Grundflächen."
+  },
+  {
+    "id": "koerper-c6",
+    "term": "Zylinder",
+    "definition": "Körper mit zwei parallelen Kreisflächen als Grund- und Deckfläche."
+  },
+  {
+    "id": "koerper-c7",
+    "term": "Pyramide",
+    "definition": "Körper mit einer Grundfläche und dreieckigen Seitenflächen, die sich in einer Spitze treffen."
+  },
+  {
+    "id": "koerper-c8",
+    "term": "Kegel",
+    "definition": "Körper mit Kreis als Grundfläche und einer Spitze."
+  },
+  {
+    "id": "koerper-c9",
+    "term": "Kugel",
+    "definition": "Körper, dessen Oberflächenpunkte alle denselben Abstand vom Mittelpunkt haben."
+  },
+  {
+    "id": "koerper-c10",
+    "term": "Kantenlänge",
+    "definition": "Länge einer Kante eines Körpers."
+  },
+  {
+    "id": "koerper-c11",
+    "term": "Würfel",
+    "definition": "Quader mit sechs kongruenten quadratischen Flächen."
+  },
+  {
+    "id": "koerper-c12",
+    "term": "Quader",
+    "definition": "Körper mit sechs rechteckigen Flächen."
+  },
+  {
+    "id": "koerper-c13",
+    "term": "Netz",
+    "definition": "Ebene Darstellung aller Flächen eines Körpers zum Zusammenfalten."
+  },
+  {
+    "id": "koerper-c14",
+    "term": "Körperhöhe",
+    "definition": "Senkrechter Abstand zwischen Grund- und Deckfläche bzw. Grundfläche und Spitze."
+  },
+  {
+    "id": "koerper-c15",
+    "term": "Mantellinie",
+    "definition": "Schräge Seitenlinie eines Kegels."
+  },
+  {
+    "id": "koerper-c16",
+    "term": "Raumdiagonale",
+    "definition": "Verbindung zweier gegenüberliegender Ecken im Raum."
+  },
+  {
+    "id": "koerper-c17",
+    "term": "Deckfläche",
+    "definition": "Zur Grundfläche parallele kongruente Fläche bei Prisma oder Zylinder."
+  },
+  {
+    "id": "koerper-c18",
+    "term": "Kubikmeter",
+    "definition": "Volumeneinheit; 1 m³ = 1000 dm³."
+  },
+  {
+    "id": "koerper-c19",
+    "term": "Oberflächeninhalt",
+    "definition": "Flächeninhalt der gesamten Oberfläche eines Körpers."
+  },
+  {
+    "id": "koerper-c20",
+    "term": "Hohlkörper",
+    "definition": "Körper mit einem inneren, leeren Raum."
+  }
+]

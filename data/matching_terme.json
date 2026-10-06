@@ -1,0 +1,82 @@
+[
+  {
+    "left": "Term",
+    "right": "Mathematischer Rechenausdruck ohne Gleichheitszeichen."
+  },
+  {
+    "left": "Variable",
+    "right": "Platzhalter für eine Zahl, meist mit einem Buchstaben bezeichnet."
+  },
+  {
+    "left": "Gleichung",
+    "right": "Mathematische Aussage, dass zwei Terme gleich sind."
+  },
+  {
+    "left": "Lösung einer Gleichung",
+    "right": "Wert der Variablen, für den die Gleichung wahr ist."
+  },
+  {
+    "left": "Äquivalenzumformung",
+    "right": "Umformung, die die Lösungsmenge einer Gleichung nicht verändert."
+  },
+  {
+    "left": "Klammerregel",
+    "right": "Regel: Zuerst werden Rechnungen in Klammern ausgeführt."
+  },
+  {
+    "left": "Punkt-vor-Strich",
+    "right": "Multiplikation und Division werden vor Addition und Subtraktion ausgeführt."
+  },
+  {
+    "left": "Einsetzen",
+    "right": "Eine Variable durch einen konkreten Zahlenwert ersetzen."
+  },
+  {
+    "left": "Ausmultiplizieren",
+    "right": "Klammern mithilfe des Distributivgesetzes auflösen."
+  },
+  {
+    "left": "Zusammenfassen",
+    "right": "Gleichartige Terme addieren oder subtrahieren."
+  },
+  {
+    "left": "linke Seite",
+    "right": "Term links vom Gleichheitszeichen."
+  },
+  {
+    "left": "rechte Seite",
+    "right": "Term rechts vom Gleichheitszeichen."
+  },
+  {
+    "left": "Probe",
+    "right": "Einsetzen der Lösung zur Überprüfung einer Gleichung."
+  },
+  {
+    "left": "Distributivgesetz",
+    "right": "a·(b+c)=a·b+a·c."
+  },
+  {
+    "left": "Kommutativgesetz",
+    "right": "Reihenfolge beim Addieren oder Multiplizieren darf vertauscht werden."
+  },
+  {
+    "left": "Assoziativgesetz",
+    "right": "Klammern bei Addition oder Multiplikation dürfen umgruppiert werden."
+  },
+  {
+    "left": "Koeffizient",
+    "right": "Zahlfaktor vor einer Variablen."
+  },
+  {
+    "left": "Konstante",
+    "right": "Zahl ohne Variable."
+  },
+  {
+    "left": "Ungleichung",
+    "right": "Vergleich zweier Terme mit <, >, ≤ oder ≥."
+  },
+  {
+    "left": "Formel",
+    "right": "Allgemeine mathematische Beziehung zwischen Größen."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "left": "natürliche Zahl",
+    "right": "Eine Zahl aus 0, 1, 2, 3, …"
+  },
+  {
+    "left": "ganze Zahl",
+    "right": "Natürliche Zahlen, ihre Gegenzahlen und 0."
+  },
+  {
+    "left": "Bruch",
+    "right": "Darstellung eines Anteils mit Zähler und Nenner."
+  },
+  {
+    "left": "Zähler",
+    "right": "Zahl oberhalb des Bruchstrichs."
+  },
+  {
+    "left": "Nenner",
+    "right": "Zahl unterhalb des Bruchstrichs."
+  },
+  {
+    "left": "Dezimalzahl",
+    "right": "Zahl mit Komma, die Stellenwerte wie Zehntel oder Hundertstel enthält."
+  },
+  {
+    "left": "Betrag",
+    "right": "Abstand einer Zahl von 0 auf der Zahlengeraden."
+  },
+  {
+    "left": "Kehrwert",
+    "right": "Bruch, der durch Vertauschen von Zähler und Nenner entsteht."
+  },
+  {
+    "left": "Potenz",
+    "right": "Kurzschreibweise für wiederholte Multiplikation gleicher Faktoren."
+  },
+  {
+    "left": "Quadratzahl",
+    "right": "Zahl, die als Produkt einer natürlichen Zahl mit sich selbst entsteht."
+  },
+  {
+    "left": "Gegenzahl",
+    "right": "Zahl mit gleichem Betrag und umgekehrtem Vorzeichen."
+  },
+  {
+    "left": "Zahlengerade",
+    "right": "Gerade, auf der Zahlen geordnet dargestellt werden."
+  },
+  {
+    "left": "Dezimalbruch",
+    "right": "Bruch mit Nenner 10, 100, 1000, …"
+  },
+  {
+    "left": "Runden",
+    "right": "Ersetzen einer Zahl durch einen nahegelegenen Wert mit weniger Stellen."
+  },
+  {
+    "left": "Überschlag",
+    "right": "Grobe Rechnung mit gerundeten Zahlen zur Kontrolle eines Ergebnisses."
+  },
+  {
+    "left": "Primzahl",
+    "right": "Natürliche Zahl größer als 1 mit genau zwei Teilern."
+  },
+  {
+    "left": "Teiler",
+    "right": "Zahl, durch die eine andere Zahl ohne Rest teilbar ist."
+  },
+  {
+    "left": "Vielfaches",
+    "right": "Produkt einer Zahl mit einer natürlichen Zahl."
+  },
+  {
+    "left": "Wurzel",
+    "right": "Umkehrung des Quadrierens."
+  },
+  {
+    "left": "Vorzeichen",
+    "right": "Plus oder Minus vor einer Zahl."
+  }
+]

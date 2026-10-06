@@ -1,0 +1,102 @@
+[
+  {
+    "id": "zahlen-c1",
+    "term": "natürliche Zahl",
+    "definition": "Eine Zahl aus 0, 1, 2, 3, …"
+  },
+  {
+    "id": "zahlen-c2",
+    "term": "ganze Zahl",
+    "definition": "Natürliche Zahlen, ihre Gegenzahlen und 0."
+  },
+  {
+    "id": "zahlen-c3",
+    "term": "Bruch",
+    "definition": "Darstellung eines Anteils mit Zähler und Nenner."
+  },
+  {
+    "id": "zahlen-c4",
+    "term": "Zähler",
+    "definition": "Zahl oberhalb des Bruchstrichs."
+  },
+  {
+    "id": "zahlen-c5",
+    "term": "Nenner",
+    "definition": "Zahl unterhalb des Bruchstrichs."
+  },
+  {
+    "id": "zahlen-c6",
+    "term": "Dezimalzahl",
+    "definition": "Zahl mit Komma, die Stellenwerte wie Zehntel oder Hundertstel enthält."
+  },
+  {
+    "id": "zahlen-c7",
+    "term": "Betrag",
+    "definition": "Abstand einer Zahl von 0 auf der Zahlengeraden."
+  },
+  {
+    "id": "zahlen-c8",
+    "term": "Kehrwert",
+    "definition": "Bruch, der durch Vertauschen von Zähler und Nenner entsteht."
+  },
+  {
+    "id": "zahlen-c9",
+    "term": "Potenz",
+    "definition": "Kurzschreibweise für wiederholte Multiplikation gleicher Faktoren."
+  },
+  {
+    "id": "zahlen-c10",
+    "term": "Quadratzahl",
+    "definition": "Zahl, die als Produkt einer natürlichen Zahl mit sich selbst entsteht."
+  },
+  {
+    "id": "zahlen-c11",
+    "term": "Gegenzahl",
+    "definition": "Zahl mit gleichem Betrag und umgekehrtem Vorzeichen."
+  },
+  {
+    "id": "zahlen-c12",
+    "term": "Zahlengerade",
+    "definition": "Gerade, auf der Zahlen geordnet dargestellt werden."
+  },
+  {
+    "id": "zahlen-c13",
+    "term": "Dezimalbruch",
+    "definition": "Bruch mit Nenner 10, 100, 1000, …"
+  },
+  {
+    "id": "zahlen-c14",
+    "term": "Runden",
+    "definition": "Ersetzen einer Zahl durch einen nahegelegenen Wert mit weniger Stellen."
+  },
+  {
+    "id": "zahlen-c15",
+    "term": "Überschlag",
+    "definition": "Grobe Rechnung mit gerundeten Zahlen zur Kontrolle eines Ergebnisses."
+  },
+  {
+    "id": "zahlen-c16",
+    "term": "Primzahl",
+    "definition": "Natürliche Zahl größer als 1 mit genau zwei Teilern."
+  },
+  {
+    "id": "zahlen-c17",
+    "term": "Teiler",
+    "definition": "Zahl, durch die eine andere Zahl ohne Rest teilbar ist."
+  },
+  {
+    "id": "zahlen-c18",
+    "term": "Vielfaches",
+    "definition": "Produkt einer Zahl mit einer natürlichen Zahl."
+  },
+  {
+    "id": "zahlen-c19",
+    "term": "Wurzel",
+    "definition": "Umkehrung des Quadrierens."
+  },
+  {
+    "id": "zahlen-c20",
+    "term": "Vorzeichen",
+    "definition": "Plus oder Minus vor einer Zahl."
+  }
+]

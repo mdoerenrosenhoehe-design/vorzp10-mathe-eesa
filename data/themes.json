@@ -1,0 +1,50 @@
+[
+  {
+    "id": "zahlen",
+    "name": "Zahlen & Rechnen",
+    "icon": "123",
+    "desc": "Zahlvorstellung, Brüche, Dezimalzahlen, negative Zahlen und Grundrechenarten"
+  },
+  {
+    "id": "groessen",
+    "name": "Größen & Einheiten",
+    "icon": "↔",
+    "desc": "Länge, Fläche, Volumen, Masse, Zeit und Umrechnungen"
+  },
+  {
+    "id": "prozent",
+    "name": "Prozent- & Zinsrechnung",
+    "icon": "%",
+    "desc": "Prozentwert, Grundwert, Prozentsatz, Rabatt und einfache Zinsen"
+  },
+  {
+    "id": "terme",
+    "name": "Terme & Gleichungen",
+    "icon": "x",
+    "desc": "Terme einsetzen, vereinfachen, Gleichungen lösen und Fehler erkennen"
+  },
+  {
+    "id": "funktionen",
+    "name": "Funktionen & Zuordnungen",
+    "icon": "↗",
+    "desc": "Proportionale und lineare Zuordnungen, Tabellen, Graphen und Wachstum"
+  },
+  {
+    "id": "geometrie",
+    "name": "Geometrie",
+    "icon": "△",
+    "desc": "Flächen, Winkel, Symmetrie, Maßstab und Satz des Pythagoras"
+  },
+  {
+    "id": "koerper",
+    "name": "Körper & Messen",
+    "icon": "◼",
+    "desc": "Volumen, Oberfläche und Sachaufgaben zu Würfel, Quader, Prisma, Zylinder und Kugel"
+  },
+  {
+    "id": "daten",
+    "name": "Daten & Wahrscheinlichkeit",
+    "icon": "▥",
+    "desc": "Diagramme, Mittelwert, Median, Spannweite, Schätzen und Wahrscheinlichkeit"
+  }
+]

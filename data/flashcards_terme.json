@@ -1,0 +1,102 @@
+[
+  {
+    "id": "terme-c1",
+    "term": "Term",
+    "definition": "Mathematischer Rechenausdruck ohne Gleichheitszeichen."
+  },
+  {
+    "id": "terme-c2",
+    "term": "Variable",
+    "definition": "Platzhalter für eine Zahl, meist mit einem Buchstaben bezeichnet."
+  },
+  {
+    "id": "terme-c3",
+    "term": "Gleichung",
+    "definition": "Mathematische Aussage, dass zwei Terme gleich sind."
+  },
+  {
+    "id": "terme-c4",
+    "term": "Lösung einer Gleichung",
+    "definition": "Wert der Variablen, für den die Gleichung wahr ist."
+  },
+  {
+    "id": "terme-c5",
+    "term": "Äquivalenzumformung",
+    "definition": "Umformung, die die Lösungsmenge einer Gleichung nicht verändert."
+  },
+  {
+    "id": "terme-c6",
+    "term": "Klammerregel",
+    "definition": "Regel: Zuerst werden Rechnungen in Klammern ausgeführt."
+  },
+  {
+    "id": "terme-c7",
+    "term": "Punkt-vor-Strich",
+    "definition": "Multiplikation und Division werden vor Addition und Subtraktion ausgeführt."
+  },
+  {
+    "id": "terme-c8",
+    "term": "Einsetzen",
+    "definition": "Eine Variable durch einen konkreten Zahlenwert ersetzen."
+  },
+  {
+    "id": "terme-c9",
+    "term": "Ausmultiplizieren",
+    "definition": "Klammern mithilfe des Distributivgesetzes auflösen."
+  },
+  {
+    "id": "terme-c10",
+    "term": "Zusammenfassen",
+    "definition": "Gleichartige Terme addieren oder subtrahieren."
+  },
+  {
+    "id": "terme-c11",
+    "term": "linke Seite",
+    "definition": "Term links vom Gleichheitszeichen."
+  },
+  {
+    "id": "terme-c12",
+    "term": "rechte Seite",
+    "definition": "Term rechts vom Gleichheitszeichen."
+  },
+  {
+    "id": "terme-c13",
+    "term": "Probe",
+    "definition": "Einsetzen der Lösung zur Überprüfung einer Gleichung."
+  },
+  {
+    "id": "terme-c14",
+    "term": "Distributivgesetz",
+    "definition": "a·(b+c)=a·b+a·c."
+  },
+  {
+    "id": "terme-c15",
+    "term": "Kommutativgesetz",
+    "definition": "Reihenfolge beim Addieren oder Multiplizieren darf vertauscht werden."
+  },
+  {
+    "id": "terme-c16",
+    "term": "Assoziativgesetz",
+    "definition": "Klammern bei Addition oder Multiplikation dürfen umgruppiert werden."
+  },
+  {
+    "id": "terme-c17",
+    "term": "Koeffizient",
+    "definition": "Zahlfaktor vor einer Variablen."
+  },
+  {
+    "id": "terme-c18",
+    "term": "Konstante",
+    "definition": "Zahl ohne Variable."
+  },
+  {
+    "id": "terme-c19",
+    "term": "Ungleichung",
+    "definition": "Vergleich zweier Terme mit <, >, ≤ oder ≥."
+  },
+  {
+    "id": "terme-c20",
+    "term": "Formel",
+    "definition": "Allgemeine mathematische Beziehung zwischen Größen."
+  }
+]
